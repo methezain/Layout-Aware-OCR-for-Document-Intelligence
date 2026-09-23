@@ -3,3 +3,10 @@ __pycache__/
 *.py[cod]
 .env
 .pytest_cache/
+
+
+storage/
+raw_pdfs/
+processed_pdf/
+json/
+markdown/
