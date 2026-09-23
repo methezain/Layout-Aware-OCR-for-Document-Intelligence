@@ -1,0 +1,6823 @@
+{
+  "file_name": "ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.pdf",
+  "extracted_data": {
+    "contractor_name": "Sunwai Technology",
+    "contractor_no": "",
+    "vat_number": "",
+    "process_date": "",
+    "gross_pay": 0,
+    "net_pay": 0
+  },
+  "raw_ocr_blocks": [
+    {
+      "crop_file": "p1_block1_section_header.png",
+      "raw_text": "RECITAL",
+      "lines": [
+        {
+          "text": "RECITAL",
+          "confidence": 0.9894,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              14,
+              0
+            ],
+            [
+              14,
+              66
+            ],
+            [
+              2,
+              67
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block2_section_header.png",
+      "raw_text": "",
+      "lines": []
+    },
+    {
+      "crop_file": "p1_block3_section_header.png",
+      "raw_text": "NOLLINWI",
+      "lines": [
+        {
+          "text": "NOLLINWI",
+          "confidence": 0.7298,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              14,
+              0
+            ],
+            [
+              14,
+              116
+            ],
+            [
+              0,
+              116
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block4_list_item.png",
+      "raw_text": "Stomets Shall telil  Airchalets 'al ae cataca «ase cccacys Sssss as spsasss ss SS",
+      "lines": [
+        {
+          "text": "Stomets Shall telil  Airchalets 'al ae cataca «ase cccacys Sssss as spsasss ss SS",
+          "confidence": 0.5648,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              869,
+              0
+            ],
+            [
+              869,
+              17
+            ],
+            [
+              0,
+              17
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block5_list_item.png",
+      "raw_text": "3 \"Mine Products\"sta\" aeaa Case \"acccs caca\"  caaaacurrency mining mg and its parts atid cod anà meDme",
+      "lines": [
+        {
+          "text": "3 \"Mine Products\"sta\" aeaa Case \"acccs caca\"  caaaacurrency mining mg and its parts atid cod",
+          "confidence": 0.8066,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              868,
+              0
+            ],
+            [
+              868,
+              15
+            ],
+            [
+              0,
+              14
+            ]
+          ]
+        },
+        {
+          "text": "anà meDme",
+          "confidence": 0.6557,
+          "local_box": [
+            [
+              0,
+              19
+            ],
+            [
+              526,
+              18
+            ],
+            [
+              526,
+              35
+            ],
+            [
+              0,
+              35
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block6_list_item.png",
+      "raw_text": ">>Se shall mean mose Casromers a ae Terrnory wno purchase Products direcny fron",
+      "lines": [
+        {
+          "text": ">>Se",
+          "confidence": 0.4992,
+          "local_box": [
+            [
+              3,
+              1
+            ],
+            [
+              12,
+              1
+            ],
+            [
+              13,
+              51
+            ],
+            [
+              4,
+              51
+            ]
+          ]
+        },
+        {
+          "text": "shall mean mose Casromers a ae Terrnory wno purchase Products direcny fron",
+          "confidence": 0.9085,
+          "local_box": [
+            [
+              1,
+              132
+            ],
+            [
+              14,
+              132
+            ],
+            [
+              13,
+              741
+            ],
+            [
+              0,
+              741
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block7_text.png",
+      "raw_text": "",
+      "lines": []
+    },
+    {
+      "crop_file": "p1_block8_section_header.png",
+      "raw_text": ".APPOINTMEN",
+      "lines": [
+        {
+          "text": ".APPOINTMEN",
+          "confidence": 0.9658,
+          "local_box": [
+            [
+              0,
+              1
+            ],
+            [
+              15,
+              1
+            ],
+            [
+              15,
+              132
+            ],
+            [
+              0,
+              132
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block9_section_header.png",
+      "raw_text": "NEDISTRIBUTORAG",
+      "lines": [
+        {
+          "text": "NEDISTRIBUTORAG",
+          "confidence": 0.8982,
+          "local_box": [
+            [
+              2,
+              100
+            ],
+            [
+              13,
+              100
+            ],
+            [
+              13,
+              275
+            ],
+            [
+              2,
+              275
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block10_text.png",
+      "raw_text": "etween iMine Corporation, (hereinafter referred to as \"RVS\") and SUNWAI Technology, a Taiwatese company, w affice at bth Floor, No. 258, Section 3, Nanjing East Road, Songshan District, Taipei 10051 (hereinafter referred to 27",
+      "lines": [
+        {
+          "text": "etween iMine Corporation, (hereinafter referred to as \"RVS\") and SUNWAI Technology, a Taiwatese company, w",
+          "confidence": 0.9623,
+          "local_box": [
+            [
+              0,
+              6
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              30
+            ],
+            [
+              0,
+              27
+            ]
+          ]
+        },
+        {
+          "text": "affice at bth Floor, No. 258, Section 3, Nanjing East Road, Songshan District, Taipei 10051 (hereinafter referred to",
+          "confidence": 0.9651,
+          "local_box": [
+            [
+              0,
+              32
+            ],
+            [
+              868,
+              33
+            ],
+            [
+              868,
+              53
+            ],
+            [
+              0,
+              52
+            ]
+          ]
+        },
+        {
+          "text": "27",
+          "confidence": 0.8272,
+          "local_box": [
+            [
+              0,
+              57
+            ],
+            [
+              33,
+              57
+            ],
+            [
+              33,
+              75
+            ],
+            [
+              0,
+              75
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block11_text.png",
+      "raw_text": "WSEREAS,BsstssbsarReses as k,CRaeRcRsresatoaC RSSRrcertam crrauaMrS pishes p se» s ad»sss hough Distcibutor on a caatiauing basis on he rerms and conaiions ser pp pe)py",
+      "lines": [
+        {
+          "text": "WSEREAS,BsstssbsarReses as k,CRaeRcRsresatoaC RSSRrcertam crrauaMrS",
+          "confidence": 0.4823,
+          "local_box": [
+            [
+              1,
+              0
+            ],
+            [
+              859,
+              1
+            ],
+            [
+              859,
+              14
+            ],
+            [
+              1,
+              13
+            ]
+          ]
+        },
+        {
+          "text": "pishes p se» s ad»sss hough Distcibutor on a caatiauing basis on he rerms and conaiions ser pp pe)py",
+          "confidence": 0.8048,
+          "local_box": [
+            [
+              0,
+              20
+            ],
+            [
+              868,
+              19
+            ],
+            [
+              868,
+              33
+            ],
+            [
+              0,
+              34
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block12_text.png",
+      "raw_text": "ge337s EIDIIJ I 5S SSS3ESJSSSO3 15",
+      "lines": [
+        {
+          "text": "ge337s",
+          "confidence": 0.3845,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              13,
+              0
+            ],
+            [
+              13,
+              73
+            ],
+            [
+              0,
+              73
+            ]
+          ]
+        },
+        {
+          "text": "EIDIIJ",
+          "confidence": 0.6782,
+          "local_box": [
+            [
+              2,
+              478
+            ],
+            [
+              12,
+              478
+            ],
+            [
+              12,
+              529
+            ],
+            [
+              1,
+              529
+            ]
+          ]
+        },
+        {
+          "text": "I 5S SSS3ESJSSSO3 15",
+          "confidence": 0.4735,
+          "local_box": [
+            [
+              1,
+              526
+            ],
+            [
+              13,
+              526
+            ],
+            [
+              13,
+              700
+            ],
+            [
+              1,
+              700
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block13_list_item.png",
+      "raw_text": "2 m 2 2  a pso ao Agr tttn m   ",
+      "lines": [
+        {
+          "text": "2 m 2 2  a pso ao",
+          "confidence": 0.5068,
+          "local_box": [
+            [
+              496,
+              0
+            ],
+            [
+              867,
+              0
+            ],
+            [
+              867,
+              12
+            ],
+            [
+              496,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "Agr tttn m",
+          "confidence": 0.6133,
+          "local_box": [
+            [
+              0,
+              13
+            ],
+            [
+              869,
+              13
+            ],
+            [
+              869,
+              36
+            ],
+            [
+              0,
+              36
+            ]
+          ]
+        },
+        {
+          "text": "  ",
+          "confidence": 0.4466,
+          "local_box": [
+            [
+              1,
+              41
+            ],
+            [
+              603,
+              41
+            ],
+            [
+              603,
+              53
+            ],
+            [
+              1,
+              53
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block14_list_item.png",
+      "raw_text": "SscSCam awaig",
+      "lines": [
+        {
+          "text": "SscSCam",
+          "confidence": 0.4301,
+          "local_box": [
+            [
+              682,
+              0
+            ],
+            [
+              859,
+              1
+            ],
+            [
+              859,
+              14
+            ],
+            [
+              682,
+              13
+            ]
+          ]
+        },
+        {
+          "text": "awaig",
+          "confidence": 0.4956,
+          "local_box": [
+            [
+              414,
+              16
+            ],
+            [
+              849,
+              17
+            ],
+            [
+              849,
+              33
+            ],
+            [
+              414,
+              33
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block15_list_item.png",
+      "raw_text": "tents, copyrights, tsagegsarks, trade names, know-how, show-how, and trade secrets, irrespective of whether such ae «S ar sátgrgaccaaa satalestual pronerty unfair competition or trade secrer aws.",
+      "lines": [
+        {
+          "text": "tents, copyrights, tsagegsarks, trade names, know-how, show-how, and trade secrets, irrespective of whether such",
+          "confidence": 0.9703,
+          "local_box": [
+            [
+              0,
+              12
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              33
+            ],
+            [
+              0,
+              35
+            ]
+          ]
+        },
+        {
+          "text": "ae «S ar sátgrgaccaaa satalestual pronerty unfair competition or trade secrer aws.",
+          "confidence": 0.7781,
+          "local_box": [
+            [
+              0,
+              39
+            ],
+            [
+              644,
+              38
+            ],
+            [
+              644,
+              55
+            ],
+            [
+              0,
+              55
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block16_text.png",
+      "raw_text": " Rdls saall aéaa aaE paraaaeceaaacessssa  caacs saas M seney mining rigs and its garts aadeaaagaaeats.",
+      "lines": [
+        {
+          "text": " Rdls saall aéaa aaE paraaaeceaaacessssa  caacs saas M",
+          "confidence": 0.5052,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              869,
+              0
+            ],
+            [
+              869,
+              15
+            ],
+            [
+              0,
+              15
+            ]
+          ]
+        },
+        {
+          "text": "seney mining rigs and its garts aadeaaagaaeats.",
+          "confidence": 0.8622,
+          "local_box": [
+            [
+              0,
+              18
+            ],
+            [
+              409,
+              18
+            ],
+            [
+              409,
+              34
+            ],
+            [
+              0,
+              34
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block17_text.png",
+      "raw_text": "ributor, and the Dístríbutor hereby accepts such appointment, as JRVS'S non-exclusive authorized distributor for sale c ducts to the Customers (other than House Account) in the Territory (as these terms are defined in Section I.8, above). opoos cha\" Bistributor sell Products for use outside the Territory",
+      "lines": [
+        {
+          "text": "ributor, and the Dístríbutor hereby accepts such appointment, as JRVS'S non-exclusive authorized distributor for sale c",
+          "confidence": 0.9738,
+          "local_box": [
+            [
+              1,
+              9
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              29
+            ],
+            [
+              1,
+              29
+            ]
+          ]
+        },
+        {
+          "text": "ducts to the Customers (other than House Account) in the Territory (as these terms are defined in Section I.8, above).",
+          "confidence": 0.9789,
+          "local_box": [
+            [
+              0,
+              36
+            ],
+            [
+              868,
+              32
+            ],
+            [
+              868,
+              52
+            ],
+            [
+              0,
+              56
+            ]
+          ]
+        },
+        {
+          "text": "opoos cha\" Bistributor sell Products for use outside the Territory",
+          "confidence": 0.9231,
+          "local_box": [
+            [
+              55,
+              61
+            ],
+            [
+              541,
+              61
+            ],
+            [
+              541,
+              73
+            ],
+            [
+              55,
+              73
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block18_text.png",
+      "raw_text": "",
+      "lines": []
+    },
+    {
+      "crop_file": "p2_block1_text.png",
+      "raw_text": "stributor as a new House Account, such Customer will become a House Account effective Ninety (90) days following ice. At JRVS's sole discretion, JRVS may compensate the Distributor for extraordinary sales and distribution efforts ren to the designation of the new House Account.",
+      "lines": [
+        {
+          "text": "stributor as a new House Account, such Customer will become a House Account effective Ninety (90) days following",
+          "confidence": 0.9968,
+          "local_box": [
+            [
+              0,
+              7
+            ],
+            [
+              867,
+              7
+            ],
+            [
+              867,
+              27
+            ],
+            [
+              0,
+              27
+            ]
+          ]
+        },
+        {
+          "text": "ice. At JRVS's sole discretion, JRVS may compensate the Distributor for extraordinary sales and distribution efforts ren",
+          "confidence": 0.999,
+          "local_box": [
+            [
+              0,
+              33
+            ],
+            [
+              867,
+              33
+            ],
+            [
+              867,
+              53
+            ],
+            [
+              0,
+              53
+            ]
+          ]
+        },
+        {
+          "text": "to the designation of the new House Account.",
+          "confidence": 0.975,
+          "local_box": [
+            [
+              0,
+              60
+            ],
+            [
+              351,
+              60
+            ],
+            [
+              351,
+              75
+            ],
+            [
+              0,
+              75
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p2_block2_section_header.png",
+      "raw_text": "J CC NOSRRBOUOBSIN",
+      "lines": [
+        {
+          "text": "J",
+          "confidence": 0.6272,
+          "local_box": [
+            [
+              1,
+              1
+            ],
+            [
+              12,
+              1
+            ],
+            [
+              12,
+              52
+            ],
+            [
+              1,
+              52
+            ]
+          ]
+        },
+        {
+          "text": "CC",
+          "confidence": 0.4172,
+          "local_box": [
+            [
+              4,
+              52
+            ],
+            [
+              10,
+              52
+            ],
+            [
+              10,
+              79
+            ],
+            [
+              4,
+              79
+            ]
+          ]
+        },
+        {
+          "text": "NOSRRBOUOBSIN",
+          "confidence": 0.6549,
+          "local_box": [
+            [
+              0,
+              81
+            ],
+            [
+              14,
+              81
+            ],
+            [
+              14,
+              274
+            ],
+            [
+              0,
+              274
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p2_block3_text.png",
+      "raw_text": "",
+      "lines": []
+    },
+    {
+      "crop_file": "p2_block4_text.png",
+      "raw_text": "ssuaaalnesasasssaeaeaaearnahl on w ma",
+      "lines": [
+        {
+          "text": "ssuaaalnesasasssaeaeaaearnahl on w ma",
+          "confidence": 0.3681,
+          "local_box": [
+            [
+              23,
+              0
+            ],
+            [
+              868,
+              0
+            ],
+            [
+              868,
+              11
+            ],
+            [
+              23,
+              11
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p2_block5_section_header.png",
+      "raw_text": "DERSAD",
+      "lines": [
+        {
+          "text": "DERSAD",
+          "confidence": 0.873,
+          "local_box": [
+            [
+              36,
+              3
+            ],
+            [
+              122,
+              3
+            ],
+            [
+              122,
+              11
+            ],
+            [
+              36,
+              11
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p2_block6_text.png",
+      "raw_text": "ime as may be commercialffy reasonably necessary, to conduct an aggressive marketing and selling program and to  hts",
+      "lines": [
+        {
+          "text": "ime as may be commercialffy reasonably necessary, to conduct an aggressive marketing and selling program and to ",
+          "confidence": 0.9805,
+          "local_box": [
+            [
+              0,
+              8
+            ],
+            [
+              868,
+              10
+            ],
+            [
+              868,
+              33
+            ],
+            [
+              0,
+              30
+            ]
+          ]
+        },
+        {
+          "text": "hts",
+          "confidence": 0.5319,
+          "local_box": [
+            [
+              0,
+              36
+            ],
+            [
+              111,
+              36
+            ],
+            [
+              111,
+              53
+            ],
+            [
+              0,
+              53
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p2_block7_text.png",
+      "raw_text": "ibute, solicit orders withín the Territory for any products which are competitive with the iMine Products unless Jk ents thereto in writing in advance, based upon the Distributor's full disclosure of the material facts in seeking such cons such marketing, sale, distribution or solicitation of the competitive products is considered to be a material breach of meat",
+      "lines": [
+        {
+          "text": "ibute, solicit orders withín the Territory for any products which are competitive with the iMine Products unless Jk",
+          "confidence": 0.9824,
+          "local_box": [
+            [
+              0,
+              8
+            ],
+            [
+              868,
+              8
+            ],
+            [
+              868,
+              28
+            ],
+            [
+              0,
+              28
+            ]
+          ]
+        },
+        {
+          "text": "ents thereto in writing in advance, based upon the Distributor's full disclosure of the material facts in seeking such cons",
+          "confidence": 0.995,
+          "local_box": [
+            [
+              1,
+              35
+            ],
+            [
+              867,
+              35
+            ],
+            [
+              867,
+              51
+            ],
+            [
+              1,
+              51
+            ]
+          ]
+        },
+        {
+          "text": "such marketing, sale, distribution or solicitation of the competitive products is considered to be a material breach of",
+          "confidence": 0.9922,
+          "local_box": [
+            [
+              0,
+              57
+            ],
+            [
+              868,
+              55
+            ],
+            [
+              868,
+              76
+            ],
+            [
+              0,
+              78
+            ]
+          ]
+        },
+        {
+          "text": "meat",
+          "confidence": 0.8924,
+          "local_box": [
+            [
+              1,
+              83
+            ],
+            [
+              44,
+              83
+            ],
+            [
+              44,
+              94
+            ],
+            [
+              1,
+              94
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p2_block8_text.png",
+      "raw_text": "y existing in Taiwan relating to the sale, distribution and promotion of the Products. Distributar shall not expo etly any Products or related information outside of aiwan.",
+      "lines": [
+        {
+          "text": "y existing in Taiwan relating to the sale, distribution and promotion of the Products. Distributar shall not expo",
+          "confidence": 0.9677,
+          "local_box": [
+            [
+              1,
+              11
+            ],
+            [
+              867,
+              11
+            ],
+            [
+              867,
+              32
+            ],
+            [
+              1,
+              32
+            ]
+          ]
+        },
+        {
+          "text": "etly any Products or related information outside of aiwan.",
+          "confidence": 0.9599,
+          "local_box": [
+            [
+              0,
+              38
+            ],
+            [
+              455,
+              38
+            ],
+            [
+              455,
+              55
+            ],
+            [
+              0,
+              55
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p2_block9_text.png",
+      "raw_text": "Products that are made by Customers, and of any probhems win he Products or their use that the Distributor becom weh written potification shall he the woperty of RVS and shall be caasidered ta de aart af IRVf's Canfidential Iaforma",
+      "lines": [
+        {
+          "text": "Products that are made by Customers, and of any probhems win he Products or their use that the Distributor becom",
+          "confidence": 0.9712,
+          "local_box": [
+            [
+              1,
+              13
+            ],
+            [
+              868,
+              13
+            ],
+            [
+              868,
+              33
+            ],
+            [
+              1,
+              33
+            ]
+          ]
+        },
+        {
+          "text": "weh written potification shall he the woperty of RVS and shall be caasidered ta de aart af IRVf's Canfidential Iaforma",
+          "confidence": 0.8709,
+          "local_box": [
+            [
+              0,
+              40
+            ],
+            [
+              868,
+              39
+            ],
+            [
+              868,
+              53
+            ],
+            [
+              0,
+              54
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p2_block10_text.png",
+      "raw_text": "rsue distribution to such customers because of geographic locatíon or any other reason; provided, however, that if stributor cannot aggressively pursue distribution because of price and/or volume, the parties will negotiate a reason erral fee to be mutually agreed upon. The Distributor shall also refer directly to JRVS inquiries relating to bundling, partn ther business opportupities with third party vendors hardware and system manufacturers and software deyelopers",
+      "lines": [
+        {
+          "text": "rsue distribution to such customers because of geographic locatíon or any other reason; provided, however, that if",
+          "confidence": 0.9927,
+          "local_box": [
+            [
+              0,
+              9
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              29
+            ],
+            [
+              0,
+              29
+            ]
+          ]
+        },
+        {
+          "text": "stributor cannot aggressively pursue distribution because of price and/or volume, the parties will negotiate a reason",
+          "confidence": 0.9914,
+          "local_box": [
+            [
+              1,
+              33
+            ],
+            [
+              868,
+              33
+            ],
+            [
+              868,
+              52
+            ],
+            [
+              1,
+              52
+            ]
+          ]
+        },
+        {
+          "text": "erral fee to be mutually agreed upon. The Distributor shall also refer directly to JRVS inquiries relating to bundling, partn",
+          "confidence": 0.9903,
+          "local_box": [
+            [
+              0,
+              54
+            ],
+            [
+              869,
+              53
+            ],
+            [
+              869,
+              77
+            ],
+            [
+              0,
+              78
+            ]
+          ]
+        },
+        {
+          "text": "ther business opportupities with third party vendors hardware and system manufacturers and software deyelopers",
+          "confidence": 0.9844,
+          "local_box": [
+            [
+              0,
+              81
+            ],
+            [
+              844,
+              80
+            ],
+            [
+              844,
+              94
+            ],
+            [
+              0,
+              95
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p2_block11_text.png",
+      "raw_text": "aely delivery to the Customers. At a minimum, such inventory shall include aat less than the quant meet Aístrrágtae's reasonahly anticinated demands for a tturty (3 àay perioà.",
+      "lines": [
+        {
+          "text": "aely delivery to the Customers. At a minimum, such inventory shall include aat less than the quant",
+          "confidence": 0.9869,
+          "local_box": [
+            [
+              1,
+              13
+            ],
+            [
+              867,
+              13
+            ],
+            [
+              867,
+              34
+            ],
+            [
+              1,
+              34
+            ]
+          ]
+        },
+        {
+          "text": "meet Aístrrágtae's reasonahly anticinated demands for a tturty (3 àay perioà.",
+          "confidence": 0.8806,
+          "local_box": [
+            [
+              0,
+              40
+            ],
+            [
+              672,
+              40
+            ],
+            [
+              672,
+              54
+            ],
+            [
+              0,
+              54
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p2_block12_text.png",
+      "raw_text": "onfirm the accuracy of the Reports set forth in Section 3.4; provided, that no more than one such audit may be conducte three-month period. Any JRVS-elected audit shall be performed at JRVS's own expense during normal business he stributor shall provide reasonable assistance to JRVS for the audit. Additionally, the Distributor shall provide JRVSw ted fnancial statements within three (3) months of the end of its fiscal year",
+      "lines": [
+        {
+          "text": "onfirm the accuracy of the Reports set forth in Section 3.4; provided, that no more than one such audit may be conducte",
+          "confidence": 0.99,
+          "local_box": [
+            [
+              1,
+              10
+            ],
+            [
+              867,
+              10
+            ],
+            [
+              867,
+              27
+            ],
+            [
+              1,
+              27
+            ]
+          ]
+        },
+        {
+          "text": "three-month period. Any JRVS-elected audit shall be performed at JRVS's own expense during normal business he",
+          "confidence": 0.9941,
+          "local_box": [
+            [
+              0,
+              31
+            ],
+            [
+              867,
+              31
+            ],
+            [
+              867,
+              50
+            ],
+            [
+              0,
+              50
+            ]
+          ]
+        },
+        {
+          "text": "stributor shall provide reasonable assistance to JRVS for the audit. Additionally, the Distributor shall provide JRVSw",
+          "confidence": 0.9898,
+          "local_box": [
+            [
+              0,
+              55
+            ],
+            [
+              868,
+              53
+            ],
+            [
+              868,
+              73
+            ],
+            [
+              0,
+              75
+            ]
+          ]
+        },
+        {
+          "text": "ted fnancial statements within three (3) months of the end of its fiscal year",
+          "confidence": 0.9944,
+          "local_box": [
+            [
+              0,
+              79
+            ],
+            [
+              541,
+              77
+            ],
+            [
+              541,
+              93
+            ],
+            [
+              0,
+              95
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p2_block13_text.png",
+      "raw_text": "es forecast for the uaits of the Products to be provided by JRVS to the Distributor hereunder during each month in su endar quarter. Subject to Section 4.4, not later than the 15th day of each month, Oistributor will provide JRVS with a bind chase order for the third month following the month in which the purchase order is placed and a non-finding forecast f lowing three months (i e the fourth, fifth and sixth months following the month in which the forecast is given.",
+      "lines": [
+        {
+          "text": "es forecast for the uaits of the Products to be provided by JRVS to the Distributor hereunder during each month in su",
+          "confidence": 0.989,
+          "local_box": [
+            [
+              0,
+              6
+            ],
+            [
+              868,
+              6
+            ],
+            [
+              868,
+              27
+            ],
+            [
+              0,
+              27
+            ]
+          ]
+        },
+        {
+          "text": "endar quarter. Subject to Section 4.4, not later than the 15th day of each month, Oistributor will provide JRVS with a bind",
+          "confidence": 0.9871,
+          "local_box": [
+            [
+              0,
+              33
+            ],
+            [
+              869,
+              32
+            ],
+            [
+              869,
+              56
+            ],
+            [
+              0,
+              57
+            ]
+          ]
+        },
+        {
+          "text": "chase order for the third month following the month in which the purchase order is placed and a non-finding forecast f",
+          "confidence": 0.9918,
+          "local_box": [
+            [
+              0,
+              57
+            ],
+            [
+              869,
+              57
+            ],
+            [
+              869,
+              81
+            ],
+            [
+              0,
+              81
+            ]
+          ]
+        },
+        {
+          "text": "lowing three months (i e the fourth, fifth and sixth months following the month in which the forecast is given.",
+          "confidence": 0.991,
+          "local_box": [
+            [
+              1,
+              84
+            ],
+            [
+              799,
+              84
+            ],
+            [
+              799,
+              99
+            ],
+            [
+              1,
+              99
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p3_block1_text.png",
+      "raw_text": "D",
+      "lines": [
+        {
+          "text": "D",
+          "confidence": 0.2356,
+          "local_box": [
+            [
+              734,
+              24
+            ],
+            [
+              865,
+              23
+            ],
+            [
+              865,
+              32
+            ],
+            [
+              734,
+              33
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p3_block2_text.png",
+      "raw_text": "Di por Tan aayoe Suoct v aan e time as shall be reguested by Distributor and accepted by JRVS. In such cases, products may be ordered in er units (caleslated is sssskes of seels or tubes) and in no events shall exceed three such units.",
+      "lines": [
+        {
+          "text": "Di por Tan aayoe Suoct v aan",
+          "confidence": 0.4751,
+          "local_box": [
+            [
+              485,
+              0
+            ],
+            [
+              866,
+              0
+            ],
+            [
+              866,
+              9
+            ],
+            [
+              485,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "e time as shall be reguested by Distributor and accepted by JRVS. In such cases, products may be ordered in",
+          "confidence": 0.9824,
+          "local_box": [
+            [
+              1,
+              14
+            ],
+            [
+              868,
+              14
+            ],
+            [
+              868,
+              34
+            ],
+            [
+              1,
+              34
+            ]
+          ]
+        },
+        {
+          "text": "er units (caleslated is sssskes of seels or tubes) and in no events shall exceed three such units.",
+          "confidence": 0.9387,
+          "local_box": [
+            [
+              0,
+              40
+            ],
+            [
+              717,
+              40
+            ],
+            [
+              717,
+              54
+            ],
+            [
+              0,
+              54
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p3_block3_text.png",
+      "raw_text": "e2 price of JRVSNS \"the time aCalacement at the Traer",
+      "lines": [
+        {
+          "text": "e2",
+          "confidence": 0.2563,
+          "local_box": [
+            [
+              553,
+              2
+            ],
+            [
+              709,
+              2
+            ],
+            [
+              709,
+              11
+            ],
+            [
+              553,
+              11
+            ]
+          ]
+        },
+        {
+          "text": "price of JRVSNS",
+          "confidence": 0.8767,
+          "local_box": [
+            [
+              0,
+              15
+            ],
+            [
+              220,
+              16
+            ],
+            [
+              220,
+              34
+            ],
+            [
+              0,
+              33
+            ]
+          ]
+        },
+        {
+          "text": "\"the time aCalacement at the Traer",
+          "confidence": 0.6824,
+          "local_box": [
+            [
+              244,
+              15
+            ],
+            [
+              564,
+              15
+            ],
+            [
+              564,
+              33
+            ],
+            [
+              244,
+              33
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p3_block4_text.png",
+      "raw_text": "ach, an \"Order\") to JRVS. Such orders shall state unit quantities, unit descriptions, requested delivery dates, and shippi structions. No purchase order shall be binding upon JRVS until accepted by JRVS in writing. JRVS reserves the right to reje ders in whole or in part. Partial shipment of an order shall not constitute acceptance of the entire order. In the event that JRVS able to fill an accepted purchase order in accordance with the schedule set forth therein as long as the purchase order does r ceed 110% of the iMine Products set forth on the most recent forecast for such month, JRVS will use commercially reasonal forts to fill such order on an allotment basis. This Agreement shall govern all orders placed by the Distributor for units of t oduct. No terms on purchase orders, invoices or like documents produced by the Distributor shall alter or add to the terms is Agreement. Any other terms and conditions of sale in conflict with or inconsistent with the terms and conditions of t greement, whether contained in the Distributor's preprinted forms or otherwise, notwithstanding JRVS's acceptance otherw",
+      "lines": [
+        {
+          "text": "ach, an \"Order\") to JRVS. Such orders shall state unit quantities, unit descriptions, requested delivery dates, and shippi",
+          "confidence": 0.9952,
+          "local_box": [
+            [
+              0,
+              2
+            ],
+            [
+              868,
+              5
+            ],
+            [
+              868,
+              25
+            ],
+            [
+              0,
+              22
+            ]
+          ]
+        },
+        {
+          "text": "structions. No purchase order shall be binding upon JRVS until accepted by JRVS in writing. JRVS reserves the right to reje",
+          "confidence": 0.9905,
+          "local_box": [
+            [
+              0,
+              25
+            ],
+            [
+              868,
+              28
+            ],
+            [
+              868,
+              47
+            ],
+            [
+              0,
+              44
+            ]
+          ]
+        },
+        {
+          "text": "ders in whole or in part. Partial shipment of an order shall not constitute acceptance of the entire order. In the event that JRVS",
+          "confidence": 0.9964,
+          "local_box": [
+            [
+              0,
+              48
+            ],
+            [
+              868,
+              50
+            ],
+            [
+              868,
+              69
+            ],
+            [
+              0,
+              67
+            ]
+          ]
+        },
+        {
+          "text": "able to fill an accepted purchase order in accordance with the schedule set forth therein as long as the purchase order does r",
+          "confidence": 0.9954,
+          "local_box": [
+            [
+              0,
+              70
+            ],
+            [
+              868,
+              72
+            ],
+            [
+              868,
+              92
+            ],
+            [
+              0,
+              90
+            ]
+          ]
+        },
+        {
+          "text": "ceed 110% of the iMine Products set forth on the most recent forecast for such month, JRVS will use commercially reasonal",
+          "confidence": 0.9935,
+          "local_box": [
+            [
+              0,
+              94
+            ],
+            [
+              868,
+              95
+            ],
+            [
+              868,
+              114
+            ],
+            [
+              0,
+              113
+            ]
+          ]
+        },
+        {
+          "text": "forts to fill such order on an allotment basis. This Agreement shall govern all orders placed by the Distributor for units of t",
+          "confidence": 0.9916,
+          "local_box": [
+            [
+              0,
+              117
+            ],
+            [
+              868,
+              117
+            ],
+            [
+              868,
+              136
+            ],
+            [
+              0,
+              136
+            ]
+          ]
+        },
+        {
+          "text": "oduct. No terms on purchase orders, invoices or like documents produced by the Distributor shall alter or add to the terms",
+          "confidence": 0.9988,
+          "local_box": [
+            [
+              0,
+              141
+            ],
+            [
+              868,
+              139
+            ],
+            [
+              868,
+              158
+            ],
+            [
+              0,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "is Agreement. Any other terms and conditions of sale in conflict with or inconsistent with the terms and conditions of t",
+          "confidence": 0.998,
+          "local_box": [
+            [
+              0,
+              163
+            ],
+            [
+              868,
+              161
+            ],
+            [
+              868,
+              180
+            ],
+            [
+              0,
+              182
+            ]
+          ]
+        },
+        {
+          "text": "greement, whether contained in the Distributor's preprinted forms or otherwise, notwithstanding JRVS's acceptance otherw",
+          "confidence": 0.9972,
+          "local_box": [
+            [
+              0,
+              186
+            ],
+            [
+              868,
+              183
+            ],
+            [
+              868,
+              203
+            ],
+            [
+              0,
+              206
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p3_block5_text.png",
+      "raw_text": "hundred and twenty (I20) days according to the schedule advised by JRVS. In no event shall the lead time for Non-stan ducts be less than two (2) months. JRVS shall use commercially reasonable efforts to deliver units of Product at the time ia IR VS's written acceptances of the Distributor's purchase orders.",
+      "lines": [
+        {
+          "text": "hundred and twenty (I20) days according to the schedule advised by JRVS. In no event shall the lead time for Non-stan",
+          "confidence": 0.9803,
+          "local_box": [
+            [
+              1,
+              11
+            ],
+            [
+              868,
+              11
+            ],
+            [
+              868,
+              27
+            ],
+            [
+              1,
+              27
+            ]
+          ]
+        },
+        {
+          "text": "ducts be less than two (2) months. JRVS shall use commercially reasonable efforts to deliver units of Product at the time",
+          "confidence": 0.9952,
+          "local_box": [
+            [
+              0,
+              34
+            ],
+            [
+              868,
+              33
+            ],
+            [
+              868,
+              53
+            ],
+            [
+              0,
+              54
+            ]
+          ]
+        },
+        {
+          "text": "ia IR VS's written acceptances of the Distributor's purchase orders.",
+          "confidence": 0.9335,
+          "local_box": [
+            [
+              0,
+              59
+            ],
+            [
+              488,
+              57
+            ],
+            [
+              488,
+              74
+            ],
+            [
+              0,
+              75
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p3_block6_text.png",
+      "raw_text": "CNR). Subject to JRVS's written approval, orders for mining rigs may be rescheduled or cancelled subject to the cancellat s, which are based on the number of days in advance of the scheduled shipment date that the Distributor notifies JRV cellation and shall be set by JRVS from time to time. The Nonstandard Products are at all times non-cancelable. Distri contact JRVS in advance for pricing and delivery information for orders of Non-standard Products.",
+      "lines": [
+        {
+          "text": "CNR). Subject to JRVS's written approval, orders for mining rigs may be rescheduled or cancelled subject to the cancellat",
+          "confidence": 0.9817,
+          "local_box": [
+            [
+              1,
+              6
+            ],
+            [
+              868,
+              6
+            ],
+            [
+              868,
+              26
+            ],
+            [
+              1,
+              26
+            ]
+          ]
+        },
+        {
+          "text": "s, which are based on the number of days in advance of the scheduled shipment date that the Distributor notifies JRV",
+          "confidence": 0.9958,
+          "local_box": [
+            [
+              1,
+              30
+            ],
+            [
+              868,
+              30
+            ],
+            [
+              868,
+              49
+            ],
+            [
+              1,
+              49
+            ]
+          ]
+        },
+        {
+          "text": "cellation and shall be set by JRVS from time to time. The Nonstandard Products are at all times non-cancelable. Distri",
+          "confidence": 0.9922,
+          "local_box": [
+            [
+              0,
+              54
+            ],
+            [
+              868,
+              54
+            ],
+            [
+              868,
+              74
+            ],
+            [
+              0,
+              74
+            ]
+          ]
+        },
+        {
+          "text": "contact JRVS in advance for pricing and delivery information for orders of Non-standard Products.",
+          "confidence": 0.9912,
+          "local_box": [
+            [
+              0,
+              78
+            ],
+            [
+              716,
+              77
+            ],
+            [
+              716,
+              94
+            ],
+            [
+              0,
+              95
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p3_block7_text.png",
+      "raw_text": "ne. Y iee eliaiges sual apphpWan ved after the effective date with the notice, except that any price increase shall be effective immediately ioutor and apply to those accepted but ndelívered orders.",
+      "lines": [
+        {
+          "text": "ne. Y iee eliaiges sual apphpWan",
+          "confidence": 0.5883,
+          "local_box": [
+            [
+              577,
+              0
+            ],
+            [
+              868,
+              0
+            ],
+            [
+              868,
+              11
+            ],
+            [
+              577,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "ved after the effective date with the notice, except that any price increase shall be effective immediately",
+          "confidence": 0.9934,
+          "local_box": [
+            [
+              0,
+              11
+            ],
+            [
+              868,
+              14
+            ],
+            [
+              868,
+              34
+            ],
+            [
+              0,
+              32
+            ]
+          ]
+        },
+        {
+          "text": "ioutor and apply to those accepted but ndelívered orders.",
+          "confidence": 0.8905,
+          "local_box": [
+            [
+              0,
+              37
+            ],
+            [
+              457,
+              38
+            ],
+            [
+              457,
+              55
+            ],
+            [
+              0,
+              54
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p3_block8_text.png",
+      "raw_text": "stributor, in JRVS sole discretion, in situations where special pricing is necessary for the Distributor to obtain sale of ducts to a Customer. If JRVS elects to extend such special pricing, it will issue a confidential meet comp quote num cumenting the special price quoted. Upon receipt of the meet comp quote number, the Distributor may ship the Products t stomer from stock and debit JRVS for the difference between their invoiced amount, less any prior credits granted by JRV new special pricing The meet comp guote number shall be included on all such debits",
+      "lines": [
+        {
+          "text": "stributor, in JRVS sole discretion, in situations where special pricing is necessary for the Distributor to obtain sale of",
+          "confidence": 0.9909,
+          "local_box": [
+            [
+              0,
+              8
+            ],
+            [
+              868,
+              8
+            ],
+            [
+              868,
+              26
+            ],
+            [
+              0,
+              26
+            ]
+          ]
+        },
+        {
+          "text": "ducts to a Customer. If JRVS elects to extend such special pricing, it will issue a confidential meet comp quote num",
+          "confidence": 0.9929,
+          "local_box": [
+            [
+              1,
+              31
+            ],
+            [
+              867,
+              31
+            ],
+            [
+              867,
+              49
+            ],
+            [
+              1,
+              49
+            ]
+          ]
+        },
+        {
+          "text": "cumenting the special price quoted. Upon receipt of the meet comp quote number, the Distributor may ship the Products t",
+          "confidence": 0.9941,
+          "local_box": [
+            [
+              0,
+              52
+            ],
+            [
+              867,
+              52
+            ],
+            [
+              867,
+              73
+            ],
+            [
+              0,
+              73
+            ]
+          ]
+        },
+        {
+          "text": "stomer from stock and debit JRVS for the difference between their invoiced amount, less any prior credits granted by JRV",
+          "confidence": 0.9999,
+          "local_box": [
+            [
+              0,
+              75
+            ],
+            [
+              868,
+              75
+            ],
+            [
+              868,
+              96
+            ],
+            [
+              0,
+              97
+            ]
+          ]
+        },
+        {
+          "text": "new special pricing The meet comp guote number shall be included on all such debits",
+          "confidence": 0.9892,
+          "local_box": [
+            [
+              1,
+              101
+            ],
+            [
+              606,
+              101
+            ],
+            [
+              606,
+              113
+            ],
+            [
+              1,
+              113
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p3_block9_text.png",
+      "raw_text": "n taxes based on JRVS's net income. If JRVS pays any taxes, duties or excíses which are not included in the fees charg Product, JRVS shall itemize such taxes, duties or excises as a separate item on its invoíces to the Distributor, a tributor shall reimburse JRVS for such taxes, duties or excises; provided, that the Distributor shall not be required to mak  reimbursement if it provides a valid tax exemption certificate to IRVS prior to shipment.",
+      "lines": [
+        {
+          "text": "n taxes based on JRVS's net income. If JRVS pays any taxes, duties or excíses which are not included in the fees charg",
+          "confidence": 0.9876,
+          "local_box": [
+            [
+              0,
+              7
+            ],
+            [
+              868,
+              8
+            ],
+            [
+              868,
+              28
+            ],
+            [
+              0,
+              27
+            ]
+          ]
+        },
+        {
+          "text": "Product, JRVS shall itemize such taxes, duties or excises as a separate item on its invoíces to the Distributor, a",
+          "confidence": 0.9916,
+          "local_box": [
+            [
+              2,
+              33
+            ],
+            [
+              867,
+              33
+            ],
+            [
+              867,
+              49
+            ],
+            [
+              2,
+              49
+            ]
+          ]
+        },
+        {
+          "text": "tributor shall reimburse JRVS for such taxes, duties or excises; provided, that the Distributor shall not be required to mak",
+          "confidence": 0.9947,
+          "local_box": [
+            [
+              0,
+              55
+            ],
+            [
+              868,
+              55
+            ],
+            [
+              868,
+              75
+            ],
+            [
+              0,
+              75
+            ]
+          ]
+        },
+        {
+          "text": " reimbursement if it provides a valid tax exemption certificate to IRVS prior to shipment.",
+          "confidence": 0.9853,
+          "local_box": [
+            [
+              0,
+              80
+            ],
+            [
+              622,
+              80
+            ],
+            [
+              622,
+              94
+            ],
+            [
+              0,
+              94
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p4_block1_section_header.png",
+      "raw_text": "YERMSOFPAYMEN",
+      "lines": [
+        {
+          "text": "YERMSOFPAYMEN",
+          "confidence": 0.9822,
+          "local_box": [
+            [
+              1,
+              0
+            ],
+            [
+              14,
+              0
+            ],
+            [
+              14,
+              171
+            ],
+            [
+              1,
+              171
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p4_block2_section_header.png",
+      "raw_text": "1.DELIVER)",
+      "lines": [
+        {
+          "text": "1.DELIVER)",
+          "confidence": 0.9204,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              14,
+              0
+            ],
+            [
+              14,
+              92
+            ],
+            [
+              1,
+              92
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p4_block3_section_header.png",
+      "raw_text": "PROPRIETYKIGKZ",
+      "lines": [
+        {
+          "text": "PROPRIETYKIGKZ",
+          "confidence": 0.8819,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              168,
+              1
+            ],
+            [
+              168,
+              14
+            ],
+            [
+              0,
+              14
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p4_block4_text.png",
+      "raw_text": "butor of the Proprietary Rights is authorized only for the purposes herein set forth and upon termination of this A reason such authorization will cease.",
+      "lines": [
+        {
+          "text": "butor of the Proprietary Rights is authorized only for the purposes herein set forth and upon termination of this A",
+          "confidence": 0.9766,
+          "local_box": [
+            [
+              0,
+              9
+            ],
+            [
+              869,
+              10
+            ],
+            [
+              869,
+              34
+            ],
+            [
+              0,
+              32
+            ]
+          ]
+        },
+        {
+          "text": "reason such authorization will cease.",
+          "confidence": 0.9766,
+          "local_box": [
+            [
+              0,
+              38
+            ],
+            [
+              295,
+              38
+            ],
+            [
+              295,
+              55
+            ],
+            [
+              0,
+              55
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p4_block5_text.png",
+      "raw_text": "oice shall state the amount to be paid by the Distributor for all Products in such shipment, as well as any taxes, d aibyRVS which shall be reimbursed by the Distributor in accordance with Section 5.4. Terms of payment €heinSDoars.",
+      "lines": [
+        {
+          "text": "oice shall state the amount to be paid by the Distributor for all Products in such shipment, as well as any taxes, d",
+          "confidence": 0.996,
+          "local_box": [
+            [
+              0,
+              8
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              29
+            ],
+            [
+              0,
+              28
+            ]
+          ]
+        },
+        {
+          "text": "aibyRVS which shall be reimbursed by the Distributor in accordance with Section 5.4. Terms of payment",
+          "confidence": 0.9658,
+          "local_box": [
+            [
+              1,
+              35
+            ],
+            [
+              867,
+              35
+            ],
+            [
+              867,
+              52
+            ],
+            [
+              1,
+              52
+            ]
+          ]
+        },
+        {
+          "text": "€heinSDoars.",
+          "confidence": 0.8286,
+          "local_box": [
+            [
+              172,
+              59
+            ],
+            [
+              371,
+              59
+            ],
+            [
+              371,
+              74
+            ],
+            [
+              172,
+              74
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p4_block6_text.png",
+      "raw_text": "late charge equal to one and one-half percent (1.5%) per month (or, if less, the maximum allowed by applicable law). I that any payment due hereunder is overdue, JRVS reserves the right to suspend performance until such delinquer",
+      "lines": [
+        {
+          "text": "late charge equal to one and one-half percent (1.5%) per month (or, if less, the maximum allowed by applicable law). I",
+          "confidence": 0.9901,
+          "local_box": [
+            [
+              0,
+              6
+            ],
+            [
+              869,
+              8
+            ],
+            [
+              869,
+              28
+            ],
+            [
+              0,
+              26
+            ]
+          ]
+        },
+        {
+          "text": "that any payment due hereunder is overdue, JRVS reserves the right to suspend performance until such delinquer",
+          "confidence": 0.9888,
+          "local_box": [
+            [
+              0,
+              32
+            ],
+            [
+              868,
+              34
+            ],
+            [
+              868,
+              54
+            ],
+            [
+              0,
+              52
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p4_block7_text.png",
+      "raw_text": "stributor's expense, in accordance with instructions provided by the Distributor, and shall be shipped to the Distributor dress set forth above, or to an address specified in the purchase order. Unless otherwise agreed, shipment shall conform VS's standard shipping procedures, or such terms as both shall agree. Title and risk of loss shall pass to the Distributor at ivery Point. All customs duties, freight, insurance and other shipping expenses from the Delivery Point, as well as any c ial packing expenses requested by the Distributor, shall be borne by the Distributor. The Distributor agrees to satist ort formalities pertaining to shipment of units of the Product to destinations outside the United States.",
+      "lines": [
+        {
+          "text": "stributor's expense, in accordance with instructions provided by the Distributor, and shall be shipped to the Distributor",
+          "confidence": 0.9912,
+          "local_box": [
+            [
+              0,
+              5
+            ],
+            [
+              869,
+              6
+            ],
+            [
+              869,
+              27
+            ],
+            [
+              0,
+              26
+            ]
+          ]
+        },
+        {
+          "text": "dress set forth above, or to an address specified in the purchase order. Unless otherwise agreed, shipment shall conform",
+          "confidence": 0.9951,
+          "local_box": [
+            [
+              1,
+              31
+            ],
+            [
+              867,
+              31
+            ],
+            [
+              867,
+              49
+            ],
+            [
+              1,
+              49
+            ]
+          ]
+        },
+        {
+          "text": "VS's standard shipping procedures, or such terms as both shall agree. Title and risk of loss shall pass to the Distributor at",
+          "confidence": 0.9975,
+          "local_box": [
+            [
+              1,
+              53
+            ],
+            [
+              868,
+              53
+            ],
+            [
+              868,
+              71
+            ],
+            [
+              1,
+              71
+            ]
+          ]
+        },
+        {
+          "text": "ivery Point. All customs duties, freight, insurance and other shipping expenses from the Delivery Point, as well as any c",
+          "confidence": 0.9903,
+          "local_box": [
+            [
+              1,
+              75
+            ],
+            [
+              867,
+              75
+            ],
+            [
+              867,
+              93
+            ],
+            [
+              1,
+              93
+            ]
+          ]
+        },
+        {
+          "text": "ial packing expenses requested by the Distributor, shall be borne by the Distributor. The Distributor agrees to satist",
+          "confidence": 0.9934,
+          "local_box": [
+            [
+              0,
+              96
+            ],
+            [
+              868,
+              96
+            ],
+            [
+              868,
+              117
+            ],
+            [
+              0,
+              117
+            ]
+          ]
+        },
+        {
+          "text": "ort formalities pertaining to shipment of units of the Product to destinations outside the United States.",
+          "confidence": 0.9879,
+          "local_box": [
+            [
+              0,
+              120
+            ],
+            [
+              721,
+              120
+            ],
+            [
+              721,
+              135
+            ],
+            [
+              0,
+              135
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p4_block8_text.png",
+      "raw_text": "pment to inspect and test the Products. If the Distributor determines any unit of Products defective, the Distributor s omptly notify JRVS of such defects. Defective Products may be returned for retest, evaluation and examination subject to JF turned Material Authorization (\"RMA\") procedure; provided, that such written notification and request for an RMA num st be received by JRVS during the Inspection Period. Returns must be prepaid by Distributor. When requesting a ret horization, Distributor must supply Distributor's purchase order number and JRVS's invoice number. Product description n de lot number and wafer numbers",
+      "lines": [
+        {
+          "text": "pment to inspect and test the Products. If the Distributor determines any unit of Products defective, the Distributor s",
+          "confidence": 0.9929,
+          "local_box": [
+            [
+              0,
+              5
+            ],
+            [
+              868,
+              7
+            ],
+            [
+              868,
+              29
+            ],
+            [
+              0,
+              27
+            ]
+          ]
+        },
+        {
+          "text": "omptly notify JRVS of such defects. Defective Products may be returned for retest, evaluation and examination subject to JF",
+          "confidence": 0.9945,
+          "local_box": [
+            [
+              0,
+              29
+            ],
+            [
+              868,
+              32
+            ],
+            [
+              868,
+              50
+            ],
+            [
+              0,
+              47
+            ]
+          ]
+        },
+        {
+          "text": "turned Material Authorization (\"RMA\") procedure; provided, that such written notification and request for an RMA num",
+          "confidence": 0.9917,
+          "local_box": [
+            [
+              0,
+              52
+            ],
+            [
+              868,
+              53
+            ],
+            [
+              868,
+              72
+            ],
+            [
+              0,
+              71
+            ]
+          ]
+        },
+        {
+          "text": "st be received by JRVS during the Inspection Period. Returns must be prepaid by Distributor. When requesting a ret",
+          "confidence": 0.9964,
+          "local_box": [
+            [
+              0,
+              73
+            ],
+            [
+              868,
+              74
+            ],
+            [
+              868,
+              96
+            ],
+            [
+              0,
+              95
+            ]
+          ]
+        },
+        {
+          "text": "horization, Distributor must supply Distributor's purchase order number and JRVS's invoice number. Product description n",
+          "confidence": 0.9934,
+          "local_box": [
+            [
+              0,
+              100
+            ],
+            [
+              867,
+              100
+            ],
+            [
+              867,
+              118
+            ],
+            [
+              0,
+              118
+            ]
+          ]
+        },
+        {
+          "text": "de lot number and wafer numbers",
+          "confidence": 0.997,
+          "local_box": [
+            [
+              0,
+              122
+            ],
+            [
+              231,
+              122
+            ],
+            [
+              231,
+              136
+            ],
+            [
+              0,
+              136
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p4_block9_text.png",
+      "raw_text": "SaaamsanzpgaAceess cts wherethe deSaiti eaglactallacatiaaas D",
+      "lines": [
+        {
+          "text": "SaaamsanzpgaAceess",
+          "confidence": 0.49,
+          "local_box": [
+            [
+              442,
+              0
+            ],
+            [
+              867,
+              0
+            ],
+            [
+              867,
+              12
+            ],
+            [
+              442,
+              12
+            ]
+          ]
+        },
+        {
+          "text": "cts wherethe deSaiti",
+          "confidence": 0.7602,
+          "local_box": [
+            [
+              0,
+              18
+            ],
+            [
+              300,
+              16
+            ],
+            [
+              300,
+              32
+            ],
+            [
+              0,
+              33
+            ]
+          ]
+        },
+        {
+          "text": "eaglactallacatiaaas",
+          "confidence": 0.7048,
+          "local_box": [
+            [
+              339,
+              19
+            ],
+            [
+              516,
+              19
+            ],
+            [
+              516,
+              32
+            ],
+            [
+              339,
+              32
+            ]
+          ]
+        },
+        {
+          "text": "D",
+          "confidence": 0.2695,
+          "local_box": [
+            [
+              703,
+              20
+            ],
+            [
+              820,
+              20
+            ],
+            [
+              820,
+              33
+            ],
+            [
+              703,
+              33
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p4_block10_text.png",
+      "raw_text": "bute, reproduce, incorporate, use or allow access to the Products or modify, prepare derivative works of, decompile. eer, disassemble or otherwise attempt to derive source code or object code from the Products, except as explicitly p this Agreement or otherwise agreedin wring.",
+      "lines": [
+        {
+          "text": "bute, reproduce, incorporate, use or allow access to the Products or modify, prepare derivative works of, decompile.",
+          "confidence": 0.9907,
+          "local_box": [
+            [
+              0,
+              9
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              29
+            ],
+            [
+              0,
+              29
+            ]
+          ]
+        },
+        {
+          "text": "eer, disassemble or otherwise attempt to derive source code or object code from the Products, except as explicitly p",
+          "confidence": 0.9907,
+          "local_box": [
+            [
+              0,
+              33
+            ],
+            [
+              868,
+              34
+            ],
+            [
+              868,
+              57
+            ],
+            [
+              0,
+              56
+            ]
+          ]
+        },
+        {
+          "text": "this Agreement or otherwise agreedin wring.",
+          "confidence": 0.9858,
+          "local_box": [
+            [
+              0,
+              60
+            ],
+            [
+              361,
+              60
+            ],
+            [
+              361,
+              75
+            ],
+            [
+              0,
+              75
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p4_block11_text.png",
+      "raw_text": "hetary notices in the same manner that JRVS incorporates such notices in the Products or in any manner reasona ested by JRVS. The Distributor will not remove any copyright or other proprietary notices incorporated on or in the Prod VS",
+      "lines": [
+        {
+          "text": "hetary notices in the same manner that JRVS incorporates such notices in the Products or in any manner reasona",
+          "confidence": 0.9863,
+          "local_box": [
+            [
+              0,
+              8
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              29
+            ],
+            [
+              0,
+              28
+            ]
+          ]
+        },
+        {
+          "text": "ested by JRVS. The Distributor will not remove any copyright or other proprietary notices incorporated on or in the Prod",
+          "confidence": 0.9961,
+          "local_box": [
+            [
+              0,
+              32
+            ],
+            [
+              868,
+              34
+            ],
+            [
+              868,
+              53
+            ],
+            [
+              0,
+              52
+            ]
+          ]
+        },
+        {
+          "text": "VS",
+          "confidence": 0.8521,
+          "local_box": [
+            [
+              0,
+              57
+            ],
+            [
+              30,
+              57
+            ],
+            [
+              30,
+              74
+            ],
+            [
+              0,
+              74
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p4_block12_text.png",
+      "raw_text": "thorized non-exclusive the Distributor of the Products, and (ii) advertise the Products under the trademarks, service marl arks, and trade names that JRVS may adopt from time to time (the \"JRVS Trademarks\"). JRVS shall provide the Distributor JR ademarks on disk or camera-ready art for production. The Distributor understands that JRVS has applied for applicable fede d state registration of certain of its trademarks and agrees, upon JRVS's request, to so indicate on the box containing oducts and, in any advertisement,, promotional materials or other documents that contain the Products' names. Nothing h ll grant to the Distributor any right, title or interest in JRVS Trademarks. At no time during or after the term of this Agree ll the Distributor challenge or assist others to challenge JRVS Trademarks or the registration thereof or attempt to register demarks, marks or trade names confusingly similar to those of JRVS. The Distributor shall follow reasonable trademark u idelines communicated by JRVS. Distributor's use of JRVS's trademarks and trade names shall be subject to JRVS'",
+      "lines": [
+        {
+          "text": "thorized non-exclusive the Distributor of the Products, and (ii) advertise the Products under the trademarks, service marl",
+          "confidence": 0.9995,
+          "local_box": [
+            [
+              0,
+              6
+            ],
+            [
+              868,
+              4
+            ],
+            [
+              868,
+              24
+            ],
+            [
+              0,
+              26
+            ]
+          ]
+        },
+        {
+          "text": "arks, and trade names that JRVS may adopt from time to time (the \"JRVS Trademarks\"). JRVS shall provide the Distributor JR",
+          "confidence": 0.9963,
+          "local_box": [
+            [
+              0,
+              29
+            ],
+            [
+              868,
+              26
+            ],
+            [
+              868,
+              46
+            ],
+            [
+              0,
+              48
+            ]
+          ]
+        },
+        {
+          "text": "ademarks on disk or camera-ready art for production. The Distributor understands that JRVS has applied for applicable fede",
+          "confidence": 0.9999,
+          "local_box": [
+            [
+              0,
+              50
+            ],
+            [
+              868,
+              48
+            ],
+            [
+              868,
+              68
+            ],
+            [
+              0,
+              70
+            ]
+          ]
+        },
+        {
+          "text": "d state registration of certain of its trademarks and agrees, upon JRVS's request, to so indicate on the box containing",
+          "confidence": 0.9941,
+          "local_box": [
+            [
+              0,
+              74
+            ],
+            [
+              868,
+              72
+            ],
+            [
+              868,
+              91
+            ],
+            [
+              0,
+              93
+            ]
+          ]
+        },
+        {
+          "text": "oducts and, in any advertisement,, promotional materials or other documents that contain the Products' names. Nothing h",
+          "confidence": 0.9979,
+          "local_box": [
+            [
+              0,
+              96
+            ],
+            [
+              868,
+              95
+            ],
+            [
+              868,
+              114
+            ],
+            [
+              0,
+              115
+            ]
+          ]
+        },
+        {
+          "text": "ll grant to the Distributor any right, title or interest in JRVS Trademarks. At no time during or after the term of this Agree",
+          "confidence": 0.9924,
+          "local_box": [
+            [
+              0,
+              118
+            ],
+            [
+              868,
+              117
+            ],
+            [
+              868,
+              137
+            ],
+            [
+              0,
+              138
+            ]
+          ]
+        },
+        {
+          "text": "ll the Distributor challenge or assist others to challenge JRVS Trademarks or the registration thereof or attempt to register",
+          "confidence": 0.9887,
+          "local_box": [
+            [
+              1,
+              142
+            ],
+            [
+              867,
+              142
+            ],
+            [
+              867,
+              159
+            ],
+            [
+              1,
+              159
+            ]
+          ]
+        },
+        {
+          "text": "demarks, marks or trade names confusingly similar to those of JRVS. The Distributor shall follow reasonable trademark u",
+          "confidence": 0.9993,
+          "local_box": [
+            [
+              0,
+              164
+            ],
+            [
+              868,
+              163
+            ],
+            [
+              868,
+              182
+            ],
+            [
+              0,
+              183
+            ]
+          ]
+        },
+        {
+          "text": "idelines communicated by JRVS. Distributor's use of JRVS's trademarks and trade names shall be subject to JRVS'",
+          "confidence": 0.9955,
+          "local_box": [
+            [
+              0,
+              187
+            ],
+            [
+              868,
+              187
+            ],
+            [
+              868,
+              206
+            ],
+            [
+              0,
+              206
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p5_block1_section_header.png",
+      "raw_text": "",
+      "lines": []
+    },
+    {
+      "crop_file": "p5_block2_text.png",
+      "raw_text": "is discioseà with the prior written approval of the disclosing ga",
+      "lines": [
+        {
+          "text": "is discioseà with the prior written approval of the disclosing ga",
+          "confidence": 0.9594,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              14,
+              0
+            ],
+            [
+              14,
+              469
+            ],
+            [
+              0,
+              469
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p5_block3_text.png",
+      "raw_text": "S's product names in the Distributor's advertising and promotional media provided (i) that the Distributor conspicuous cates in all such media that such names are trademarks of JRVS and (ii) that the Distributor submits all such media to JRVS or approval and complies with the requirements set forth in Section 8.4. Upon termination of this Agreement for any reas Distributor will immediately cease all use of Products' names and JRVS Trademarks and, at the Distributor's election, dest deliver to JRVS all materials in the Distributor's control or possession which bear such names and trademarks, including es literature The Distributor will not challenge any intellectual property rights claimed by JRVS in such trademarks",
+      "lines": [
+        {
+          "text": "S's product names in the Distributor's advertising and promotional media provided (i) that the Distributor conspicuous",
+          "confidence": 0.9919,
+          "local_box": [
+            [
+              1,
+              7
+            ],
+            [
+              868,
+              7
+            ],
+            [
+              868,
+              25
+            ],
+            [
+              1,
+              25
+            ]
+          ]
+        },
+        {
+          "text": "cates in all such media that such names are trademarks of JRVS and (ii) that the Distributor submits all such media to JRVS",
+          "confidence": 0.9968,
+          "local_box": [
+            [
+              1,
+              28
+            ],
+            [
+              866,
+              28
+            ],
+            [
+              866,
+              46
+            ],
+            [
+              1,
+              46
+            ]
+          ]
+        },
+        {
+          "text": "or approval and complies with the requirements set forth in Section 8.4. Upon termination of this Agreement for any reas",
+          "confidence": 0.9923,
+          "local_box": [
+            [
+              1,
+              53
+            ],
+            [
+              868,
+              53
+            ],
+            [
+              868,
+              71
+            ],
+            [
+              1,
+              71
+            ]
+          ]
+        },
+        {
+          "text": "Distributor will immediately cease all use of Products' names and JRVS Trademarks and, at the Distributor's election, dest",
+          "confidence": 0.9985,
+          "local_box": [
+            [
+              0,
+              75
+            ],
+            [
+              868,
+              75
+            ],
+            [
+              868,
+              93
+            ],
+            [
+              0,
+              93
+            ]
+          ]
+        },
+        {
+          "text": "deliver to JRVS all materials in the Distributor's control or possession which bear such names and trademarks, including",
+          "confidence": 0.9984,
+          "local_box": [
+            [
+              1,
+              97
+            ],
+            [
+              867,
+              97
+            ],
+            [
+              867,
+              115
+            ],
+            [
+              1,
+              115
+            ]
+          ]
+        },
+        {
+          "text": "es literature The Distributor will not challenge any intellectual property rights claimed by JRVS in such trademarks",
+          "confidence": 0.9969,
+          "local_box": [
+            [
+              0,
+              120
+            ],
+            [
+              813,
+              120
+            ],
+            [
+              813,
+              134
+            ],
+            [
+              0,
+              134
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p5_block4_text.png",
+      "raw_text": "such Confidential Information except as set forth herein, and shall use reasonable efforts not to disclose such Confiden ormation to any third party. Without limiting the foregoing, each of the parties shall use at least the same degree of care wh ses to prevent the disclosure of its own confidential information of like importance to prevent the disclosure of Confide ormation disclosed to it by the other party under this Agreement. Each party shall promptly notify the other partyo ga( or suspected misuse or unauthorized disclosure of the other party's Confidential Information.",
+      "lines": [
+        {
+          "text": "such Confidential Information except as set forth herein, and shall use reasonable efforts not to disclose such Confiden",
+          "confidence": 0.9974,
+          "local_box": [
+            [
+              1,
+              8
+            ],
+            [
+              868,
+              8
+            ],
+            [
+              868,
+              26
+            ],
+            [
+              1,
+              26
+            ]
+          ]
+        },
+        {
+          "text": "ormation to any third party. Without limiting the foregoing, each of the parties shall use at least the same degree of care wh",
+          "confidence": 0.9948,
+          "local_box": [
+            [
+              1,
+              31
+            ],
+            [
+              868,
+              31
+            ],
+            [
+              868,
+              49
+            ],
+            [
+              1,
+              49
+            ]
+          ]
+        },
+        {
+          "text": "ses to prevent the disclosure of its own confidential information of like importance to prevent the disclosure of Confide",
+          "confidence": 1.0,
+          "local_box": [
+            [
+              1,
+              53
+            ],
+            [
+              867,
+              53
+            ],
+            [
+              867,
+              72
+            ],
+            [
+              1,
+              72
+            ]
+          ]
+        },
+        {
+          "text": "ormation disclosed to it by the other party under this Agreement. Each party shall promptly notify the other partyo",
+          "confidence": 0.9871,
+          "local_box": [
+            [
+              0,
+              77
+            ],
+            [
+              868,
+              77
+            ],
+            [
+              868,
+              98
+            ],
+            [
+              0,
+              98
+            ]
+          ]
+        },
+        {
+          "text": "ga( or suspected misuse or unauthorized disclosure of the other party's Confidential Information.",
+          "confidence": 0.982,
+          "local_box": [
+            [
+              0,
+              100
+            ],
+            [
+              686,
+              101
+            ],
+            [
+              686,
+              116
+            ],
+            [
+              0,
+              115
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p5_block5_text.png",
+      "raw_text": "W»W W»     W S 7 d  S",
+      "lines": [
+        {
+          "text": "W»W W»     W S 7",
+          "confidence": 0.5362,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              867,
+              0
+            ],
+            [
+              867,
+              18
+            ],
+            [
+              0,
+              16
+            ]
+          ]
+        },
+        {
+          "text": "d  S",
+          "confidence": 0.5367,
+          "local_box": [
+            [
+              0,
+              18
+            ],
+            [
+              441,
+              18
+            ],
+            [
+              441,
+              34
+            ],
+            [
+              0,
+              34
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p5_block6_text.png",
+      "raw_text": "R DD OD A D  O BSEIS  S SSA  AM ",
+      "lines": [
+        {
+          "text": "R DD OD A D  O BSEIS  S SSA  AM ",
+          "confidence": 0.514,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              807,
+              0
+            ],
+            [
+              807,
+              16
+            ],
+            [
+              0,
+              15
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p5_block7_text.png",
+      "raw_text": "(b) was known to the cecewaag party, «ildattll esakttltl, al dle lime of disctosure, as demonstaate ",
+      "lines": [
+        {
+          "text": "(b) was known to the cecewaag party, «ildattll esakttltl, al dle lime of disctosure, as demonstaate",
+          "confidence": 0.8177,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              808,
+              0
+            ],
+            [
+              808,
+              16
+            ],
+            [
+              0,
+              16
+            ]
+          ]
+        },
+        {
+          "text": "",
+          "confidence": 0.0,
+          "local_box": [
+            [
+              0,
+              20
+            ],
+            [
+              206,
+              19
+            ],
+            [
+              206,
+              34
+            ],
+            [
+              0,
+              34
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p5_block8_text.png",
+      "raw_text": "eespsesc Ceceage  Ce ecec  utat a use or he Confdential Inota stcated hu fes creaedmimeoushdwenmenln",
+      "lines": [
+        {
+          "text": "eespsesc Ceceage  Ce ecec  utat a use or he Confdential Inota",
+          "confidence": 0.6013,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              807,
+              0
+            ],
+            [
+              807,
+              15
+            ],
+            [
+              0,
+              17
+            ]
+          ]
+        },
+        {
+          "text": "stcated hu fes creaedmimeoushdwenmenln",
+          "confidence": 0.547,
+          "local_box": [
+            [
+              0,
+              21
+            ],
+            [
+              565,
+              20
+            ],
+            [
+              565,
+              33
+            ],
+            [
+              0,
+              34
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p5_block9_text.png",
+      "raw_text": "le) becaes kawa « R cccccCcaccs, acacc esccacctac, caaa aa saucce oller all a aatan deaech af this Agreement  be receiviag gacty aad otherwise no  vbraon d tt tistiismn",
+      "lines": [
+        {
+          "text": "le) becaes kawa « R cccccCcaccs, acacc esccacctac, caaa aa saucce oller all a aatan",
+          "confidence": 0.5633,
+          "local_box": [
+            [
+              7,
+              1
+            ],
+            [
+              808,
+              0
+            ],
+            [
+              808,
+              16
+            ],
+            [
+              7,
+              17
+            ]
+          ]
+        },
+        {
+          "text": "deaech af this Agreement  be receiviag gacty aad otherwise no  vbraon d tt tistiismn",
+          "confidence": 0.6984,
+          "local_box": [
+            [
+              0,
+              20
+            ],
+            [
+              807,
+              20
+            ],
+            [
+              807,
+              35
+            ],
+            [
+              0,
+              35
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p5_block10_text.png",
+      "raw_text": "EOS SD) D) PS SS » S SWSP  A S A A AN U 2",
+      "lines": [
+        {
+          "text": "EOS SD) D) PS SS » S SWSP  A S A A AN U",
+          "confidence": 0.5459,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              808,
+              0
+            ],
+            [
+              808,
+              16
+            ],
+            [
+              0,
+              16
+            ]
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.263,
+          "local_box": [
+            [
+              1,
+              22
+            ],
+            [
+              27,
+              22
+            ],
+            [
+              27,
+              33
+            ],
+            [
+              1,
+              33
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p5_block11_text.png",
+      "raw_text": "baoaeaalllllaleaaacare agclacy,t Gaaet ge  provided, however, that the receiving party shall provide prompt notice thereof to the disclosine solosing party to seek a protestive order or otherwise prevent ot restnct such dusèusure.",
+      "lines": [
+        {
+          "text": "baoaeaalllllaleaaacare agclacy,t Gaaet ge",
+          "confidence": 0.5692,
+          "local_box": [
+            [
+              451,
+              1
+            ],
+            [
+              805,
+              1
+            ],
+            [
+              805,
+              9
+            ],
+            [
+              451,
+              9
+            ]
+          ]
+        },
+        {
+          "text": " provided, however, that the receiving party shall provide prompt notice thereof to the disclosine",
+          "confidence": 0.979,
+          "local_box": [
+            [
+              0,
+              11
+            ],
+            [
+              808,
+              10
+            ],
+            [
+              808,
+              36
+            ],
+            [
+              0,
+              37
+            ]
+          ]
+        },
+        {
+          "text": "solosing party to seek a protestive order or otherwise prevent ot restnct such dusèusure.",
+          "confidence": 0.9279,
+          "local_box": [
+            [
+              0,
+              39
+            ],
+            [
+              738,
+              38
+            ],
+            [
+              738,
+              55
+            ],
+            [
+              0,
+              55
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p5_block12_text.png",
+      "raw_text": "L3Kell aCmacaraanamcanaaccaaagn,c a»amthe other party.",
+      "lines": [
+        {
+          "text": "L3Kell aCmacaraanamcanaaccaaagn,c",
+          "confidence": 0.5024,
+          "local_box": [
+            [
+              2,
+              0
+            ],
+            [
+              864,
+              0
+            ],
+            [
+              864,
+              14
+            ],
+            [
+              2,
+              13
+            ]
+          ]
+        },
+        {
+          "text": "a»amthe other party.",
+          "confidence": 0.8695,
+          "local_box": [
+            [
+              0,
+              17
+            ],
+            [
+              401,
+              18
+            ],
+            [
+              401,
+              34
+            ],
+            [
+              0,
+              33
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p5_block13_text.png",
+      "raw_text": "uan Ay sucil lecld sitl cmdd le lcahing paty lo laacrive celiel in a n) is a breaen or ns Agieelnell Wmnl",
+      "lines": [
+        {
+          "text": "uan Ay sucil lecld sitl cmdd le lcahing paty lo laacrive celiel in a",
+          "confidence": 0.6649,
+          "local_box": [
+            [
+              0,
+              9
+            ],
+            [
+              869,
+              13
+            ],
+            [
+              869,
+              37
+            ],
+            [
+              0,
+              33
+            ]
+          ]
+        },
+        {
+          "text": "n) is a breaen or ns Agieelnell Wmnl",
+          "confidence": 0.6439,
+          "local_box": [
+            [
+              544,
+              0
+            ],
+            [
+              867,
+              0
+            ],
+            [
+              867,
+              12
+            ],
+            [
+              544,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block1_section_header.png",
+      "raw_text": "KYLCT?",
+      "lines": [
+        {
+          "text": "KYLCT?",
+          "confidence": 0.4129,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              185,
+              1
+            ],
+            [
+              184,
+              14
+            ],
+            [
+              0,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block2_text.png",
+      "raw_text": "DSDR 2",
+      "lines": [
+        {
+          "text": "DSDR",
+          "confidence": 0.7971,
+          "local_box": [
+            [
+              1,
+              11
+            ],
+            [
+              866,
+              13
+            ],
+            [
+              866,
+              34
+            ],
+            [
+              1,
+              32
+            ]
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.336,
+          "local_box": [
+            [
+              1,
+              39
+            ],
+            [
+              31,
+              39
+            ],
+            [
+              31,
+              54
+            ],
+            [
+              1,
+              54
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block3_text.png",
+      "raw_text": "imapspip pdes peamo) se s seryice füll dé aé atad",
+      "lines": [
+        {
+          "text": "imapspip pdes peamo) se s seryice füll dé aé atad",
+          "confidence": 0.6389,
+          "local_box": [
+            [
+              27,
+              15
+            ],
+            [
+              563,
+              16
+            ],
+            [
+              563,
+              33
+            ],
+            [
+              27,
+              33
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block4_section_header.png",
+      "raw_text": "LDEA",
+      "lines": [
+        {
+          "text": "LDEA",
+          "confidence": 0.4269,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              14,
+              0
+            ],
+            [
+              14,
+              165
+            ],
+            [
+              0,
+              165
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block5_section_header.png",
+      "raw_text": "",
+      "lines": []
+    },
+    {
+      "crop_file": "p6_block6_text.png",
+      "raw_text": "PRESS, IMPLIED, STATUTORY, OR OTHERWISE, AND SPECIFICALLY DISCLAIMS ANY WARRANTY RCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE PRODUCT AN N",
+      "lines": [
+        {
+          "text": "PRESS, IMPLIED, STATUTORY, OR OTHERWISE, AND SPECIFICALLY DISCLAIMS ANY WARRANTY",
+          "confidence": 0.9966,
+          "local_box": [
+            [
+              0,
+              9
+            ],
+            [
+              868,
+              11
+            ],
+            [
+              868,
+              30
+            ],
+            [
+              0,
+              29
+            ]
+          ]
+        },
+        {
+          "text": "RCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE PRODUCT AN",
+          "confidence": 0.9834,
+          "local_box": [
+            [
+              0,
+              35
+            ],
+            [
+              868,
+              35
+            ],
+            [
+              868,
+              55
+            ],
+            [
+              0,
+              55
+            ]
+          ]
+        },
+        {
+          "text": "N",
+          "confidence": 0.4548,
+          "local_box": [
+            [
+              2,
+              61
+            ],
+            [
+              101,
+              61
+            ],
+            [
+              101,
+              73
+            ],
+            [
+              2,
+              73
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block7_text.png",
+      "raw_text": "apanies and their directors, officers, employees, and agents (collectively, \"Protected Parties\") harmless from and against a all claims (including those for personal injury or death) and liabilities (including attorneys' and other professional fees a her costs of litigation) by any other party arising out of or attributable to the Distributor's representation of the Products i nner inconsistent with JRVS's Product descriptions and warranties or from the Distributor's marketing, distribution, use or aProduets",
+      "lines": [
+        {
+          "text": "apanies and their directors, officers, employees, and agents (collectively, \"Protected Parties\") harmless from and against a",
+          "confidence": 0.992,
+          "local_box": [
+            [
+              0,
+              8
+            ],
+            [
+              868,
+              10
+            ],
+            [
+              868,
+              28
+            ],
+            [
+              0,
+              26
+            ]
+          ]
+        },
+        {
+          "text": "all claims (including those for personal injury or death) and liabilities (including attorneys' and other professional fees a",
+          "confidence": 0.9958,
+          "local_box": [
+            [
+              1,
+              32
+            ],
+            [
+              868,
+              32
+            ],
+            [
+              868,
+              50
+            ],
+            [
+              1,
+              50
+            ]
+          ]
+        },
+        {
+          "text": "her costs of litigation) by any other party arising out of or attributable to the Distributor's representation of the Products i",
+          "confidence": 0.9938,
+          "local_box": [
+            [
+              1,
+              56
+            ],
+            [
+              868,
+              56
+            ],
+            [
+              868,
+              74
+            ],
+            [
+              1,
+              74
+            ]
+          ]
+        },
+        {
+          "text": "nner inconsistent with JRVS's Product descriptions and warranties or from the Distributor's marketing, distribution, use or",
+          "confidence": 0.9946,
+          "local_box": [
+            [
+              0,
+              79
+            ],
+            [
+              868,
+              77
+            ],
+            [
+              868,
+              96
+            ],
+            [
+              0,
+              98
+            ]
+          ]
+        },
+        {
+          "text": "aProduets",
+          "confidence": 0.8218,
+          "local_box": [
+            [
+              0,
+              103
+            ],
+            [
+              89,
+              103
+            ],
+            [
+              89,
+              115
+            ],
+            [
+              0,
+              115
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block8_text.png",
+      "raw_text": "period of two years 2, «aless earlier terminated pursuant to the provisions in this Agreement This Agreement shall e exteaded hy hath narties in writing prior to the termination.",
+      "lines": [
+        {
+          "text": "period of two years 2, «aless earlier terminated pursuant to the provisions in this Agreement This Agreement shall e",
+          "confidence": 0.982,
+          "local_box": [
+            [
+              0,
+              11
+            ],
+            [
+              869,
+              10
+            ],
+            [
+              869,
+              34
+            ],
+            [
+              0,
+              34
+            ]
+          ]
+        },
+        {
+          "text": "exteaded hy hath narties in writing prior to the termination.",
+          "confidence": 0.9698,
+          "local_box": [
+            [
+              1,
+              40
+            ],
+            [
+              453,
+              40
+            ],
+            [
+              453,
+              54
+            ],
+            [
+              1,
+              54
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block9_text.png",
+      "raw_text": "svese mna em y gying he other party wnen nohce pney ) days n adyance. n n Cunvemcnct. Ths Agreement may te Verminaled by elther parry sor any reason or no reason, wn",
+      "lines": [
+        {
+          "text": "svese mna em y gying he other party wnen nohce pney ) days n adyance.",
+          "confidence": 0.7388,
+          "local_box": [
+            [
+              134,
+              1
+            ],
+            [
+              849,
+              1
+            ],
+            [
+              849,
+              13
+            ],
+            [
+              134,
+              13
+            ]
+          ]
+        },
+        {
+          "text": "n n Cunvemcnct. Ths Agreement may te Verminaled by elther parry sor any reason or no reason, wn",
+          "confidence": 0.8323,
+          "local_box": [
+            [
+              0,
+              18
+            ],
+            [
+              833,
+              18
+            ],
+            [
+              833,
+              34
+            ],
+            [
+              0,
+              34
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block10_text.png",
+      "raw_text": "formance of any material provision of this Agreement, then the non-defaulting party may give written notice to the defaulti ty that if the default is not cured within thirty (30) days the Agreement will be terminated. If the non-defaulting party gi h notice and the default is not cured during the thirty (30) day period, then the Agreement shall automatically terminate of that period. Notwithstanding the foregoing, if the Distributor breaches the provisions of Section 9 hereof, then JR entitled to terminate this Agreement effective immediately upon delivery of written notice to the Distributor",
+      "lines": [
+        {
+          "text": "formance of any material provision of this Agreement, then the non-defaulting party may give written notice to the defaulti",
+          "confidence": 0.989,
+          "local_box": [
+            [
+              0,
+              6
+            ],
+            [
+              869,
+              6
+            ],
+            [
+              869,
+              27
+            ],
+            [
+              0,
+              27
+            ]
+          ]
+        },
+        {
+          "text": "ty that if the default is not cured within thirty (30) days the Agreement will be terminated. If the non-defaulting party gi",
+          "confidence": 0.9907,
+          "local_box": [
+            [
+              0,
+              29
+            ],
+            [
+              868,
+              29
+            ],
+            [
+              868,
+              50
+            ],
+            [
+              0,
+              50
+            ]
+          ]
+        },
+        {
+          "text": "h notice and the default is not cured during the thirty (30) day period, then the Agreement shall automatically terminate",
+          "confidence": 0.9996,
+          "local_box": [
+            [
+              1,
+              53
+            ],
+            [
+              868,
+              53
+            ],
+            [
+              868,
+              72
+            ],
+            [
+              1,
+              72
+            ]
+          ]
+        },
+        {
+          "text": "of that period. Notwithstanding the foregoing, if the Distributor breaches the provisions of Section 9 hereof, then JR",
+          "confidence": 0.9983,
+          "local_box": [
+            [
+              0,
+              76
+            ],
+            [
+              868,
+              76
+            ],
+            [
+              868,
+              97
+            ],
+            [
+              0,
+              97
+            ]
+          ]
+        },
+        {
+          "text": "entitled to terminate this Agreement effective immediately upon delivery of written notice to the Distributor",
+          "confidence": 0.9983,
+          "local_box": [
+            [
+              0,
+              101
+            ],
+            [
+              795,
+              100
+            ],
+            [
+              795,
+              115
+            ],
+            [
+              0,
+              116
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block11_text.png",
+      "raw_text": "or against either party of insofvency, receivership or bankruptcy proceedings or any other proceedings for the settleme party's debis, ii) uppn either party's making an assignment for the benefit of creditors, or (iii) upon either pat tion os agagina ta do business",
+      "lines": [
+        {
+          "text": "or against either party of insofvency, receivership or bankruptcy proceedings or any other proceedings for the settleme",
+          "confidence": 0.9899,
+          "local_box": [
+            [
+              1,
+              9
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              29
+            ],
+            [
+              1,
+              29
+            ]
+          ]
+        },
+        {
+          "text": "party's debis, ii) uppn either party's making an assignment for the benefit of creditors, or (iii) upon either pat",
+          "confidence": 0.976,
+          "local_box": [
+            [
+              1,
+              34
+            ],
+            [
+              867,
+              34
+            ],
+            [
+              867,
+              53
+            ],
+            [
+              1,
+              53
+            ]
+          ]
+        },
+        {
+          "text": "tion os agagina ta do business",
+          "confidence": 0.8291,
+          "local_box": [
+            [
+              1,
+              61
+            ],
+            [
+              244,
+              61
+            ],
+            [
+              244,
+              73
+            ],
+            [
+              1,
+              73
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block12_text.png",
+      "raw_text": "tising materials aad ader amatecials furnished by RYS as RVS may direct. JRVS's name, RYS's Trademarks, Gvina symkas shall aat he disnlaved or used hy the Distributor thereafter.",
+      "lines": [
+        {
+          "text": "tising materials aad ader amatecials furnished by RYS as RVS may direct. JRVS's name, RYS's Trademarks,",
+          "confidence": 0.928,
+          "local_box": [
+            [
+              0,
+              9
+            ],
+            [
+              868,
+              10
+            ],
+            [
+              868,
+              34
+            ],
+            [
+              0,
+              33
+            ]
+          ]
+        },
+        {
+          "text": "Gvina symkas shall aat he disnlaved or used hy the Distributor thereafter.",
+          "confidence": 0.9215,
+          "local_box": [
+            [
+              0,
+              40
+            ],
+            [
+              569,
+              40
+            ],
+            [
+              569,
+              54
+            ],
+            [
+              0,
+              54
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block13_text.png",
+      "raw_text": "ther party shall be liable to the other, because of such termination, for compensation, reimbursement or damages on accoun loss of prospective profits or anticipated sales or on account of expenditures, inventory, investments, leases or commitme connection with the business or goodwill of either party. Termination shall not, however, relieve either party of any obliga arred prior to the termination, including, without limitation, the obligation of the Distributor to pay JRVS for Pro hased prior to such termination.",
+      "lines": [
+        {
+          "text": "ther party shall be liable to the other, because of such termination, for compensation, reimbursement or damages on accoun",
+          "confidence": 0.9946,
+          "local_box": [
+            [
+              0,
+              8
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              28
+            ],
+            [
+              0,
+              27
+            ]
+          ]
+        },
+        {
+          "text": "loss of prospective profits or anticipated sales or on account of expenditures, inventory, investments, leases or commitme",
+          "confidence": 0.9932,
+          "local_box": [
+            [
+              0,
+              31
+            ],
+            [
+              868,
+              31
+            ],
+            [
+              868,
+              50
+            ],
+            [
+              0,
+              49
+            ]
+          ]
+        },
+        {
+          "text": "connection with the business or goodwill of either party. Termination shall not, however, relieve either party of any obliga",
+          "confidence": 0.9979,
+          "local_box": [
+            [
+              0,
+              53
+            ],
+            [
+              867,
+              54
+            ],
+            [
+              867,
+              73
+            ],
+            [
+              0,
+              72
+            ]
+          ]
+        },
+        {
+          "text": "arred prior to the termination, including, without limitation, the obligation of the Distributor to pay JRVS for Pro",
+          "confidence": 0.9924,
+          "local_box": [
+            [
+              0,
+              77
+            ],
+            [
+              868,
+              77
+            ],
+            [
+              868,
+              95
+            ],
+            [
+              0,
+              95
+            ]
+          ]
+        },
+        {
+          "text": "hased prior to such termination.",
+          "confidence": 0.9959,
+          "local_box": [
+            [
+              0,
+              100
+            ],
+            [
+              231,
+              100
+            ],
+            [
+              231,
+              115
+            ],
+            [
+              0,
+              115
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p6_block14_text.png",
+      "raw_text": "ment obligations incurred during the term of this Agreement, shall survive the expiration or termination of this A eason. The provísions of Section 9 shall survive the expiration or termination of this Agreement for five (5) ts and o6lígations af the parties shall cease upon termination of this Agreement.",
+      "lines": [
+        {
+          "text": "ment obligations incurred during the term of this Agreement, shall survive the expiration or termination of this A",
+          "confidence": 0.9941,
+          "local_box": [
+            [
+              1,
+              9
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              29
+            ],
+            [
+              1,
+              29
+            ]
+          ]
+        },
+        {
+          "text": "eason. The provísions of Section 9 shall survive the expiration or termination of this Agreement for five (5)",
+          "confidence": 0.9722,
+          "local_box": [
+            [
+              0,
+              33
+            ],
+            [
+              869,
+              30
+            ],
+            [
+              869,
+              55
+            ],
+            [
+              0,
+              57
+            ]
+          ]
+        },
+        {
+          "text": "ts and o6lígations af the parties shall cease upon termination of this Agreement.",
+          "confidence": 0.9643,
+          "local_box": [
+            [
+              0,
+              59
+            ],
+            [
+              634,
+              57
+            ],
+            [
+              634,
+              74
+            ],
+            [
+              0,
+              75
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p7_block1_section_header.png",
+      "raw_text": "SLIMYAHONOFLIABILIHE",
+      "lines": [
+        {
+          "text": "SLIMYAHONOFLIABILIHE",
+          "confidence": 0.8797,
+          "local_box": [
+            [
+              1,
+              0
+            ],
+            [
+              14,
+              0
+            ],
+            [
+              14,
+              238
+            ],
+            [
+              1,
+              238
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p7_block2_section_header.png",
+      "raw_text": "A NOTICE",
+      "lines": [
+        {
+          "text": "A NOTICE",
+          "confidence": 0.899,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              95,
+              0
+            ],
+            [
+              95,
+              13
+            ],
+            [
+              0,
+              14
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p7_block3_text.png",
+      "raw_text": "Mine Corporation 520 Allison Point Blvd Ste. 223 #87928 ndianapolis, Indiana 46250 Attention: Mr. Daniel Tsai, Chief Executive Offi To DISTRIBUTOR: Sunwai Technology th Floor, No. 258, Section 3, Nanjing East Road ongshan District, Taipei 10051",
+      "lines": [
+        {
+          "text": "Mine Corporation",
+          "confidence": 1.0,
+          "local_box": [
+            [
+              0,
+              11
+            ],
+            [
+              127,
+              11
+            ],
+            [
+              127,
+              33
+            ],
+            [
+              0,
+              33
+            ]
+          ]
+        },
+        {
+          "text": "520 Allison Point Blvd Ste. 223 #87928",
+          "confidence": 0.9952,
+          "local_box": [
+            [
+              0,
+              36
+            ],
+            [
+              281,
+              36
+            ],
+            [
+              281,
+              53
+            ],
+            [
+              0,
+              53
+            ]
+          ]
+        },
+        {
+          "text": "ndianapolis, Indiana 46250",
+          "confidence": 1.0,
+          "local_box": [
+            [
+              0,
+              59
+            ],
+            [
+              192,
+              59
+            ],
+            [
+              192,
+              77
+            ],
+            [
+              0,
+              77
+            ]
+          ]
+        },
+        {
+          "text": "Attention: Mr. Daniel Tsai, Chief Executive Offi",
+          "confidence": 0.9897,
+          "local_box": [
+            [
+              0,
+              82
+            ],
+            [
+              333,
+              82
+            ],
+            [
+              333,
+              99
+            ],
+            [
+              0,
+              99
+            ]
+          ]
+        },
+        {
+          "text": "To DISTRIBUTOR:",
+          "confidence": 0.9809,
+          "local_box": [
+            [
+              0,
+              103
+            ],
+            [
+              132,
+              102
+            ],
+            [
+              133,
+              120
+            ],
+            [
+              0,
+              122
+            ]
+          ]
+        },
+        {
+          "text": "Sunwai Technology",
+          "confidence": 0.9688,
+          "local_box": [
+            [
+              0,
+              127
+            ],
+            [
+              138,
+              127
+            ],
+            [
+              138,
+              147
+            ],
+            [
+              0,
+              147
+            ]
+          ]
+        },
+        {
+          "text": "th Floor, No. 258, Section 3, Nanjing East Road",
+          "confidence": 0.9969,
+          "local_box": [
+            [
+              0,
+              149
+            ],
+            [
+              333,
+              147
+            ],
+            [
+              333,
+              167
+            ],
+            [
+              0,
+              170
+            ]
+          ]
+        },
+        {
+          "text": "ongshan District, Taipei 10051",
+          "confidence": 0.9881,
+          "local_box": [
+            [
+              0,
+              172
+            ],
+            [
+              221,
+              169
+            ],
+            [
+              221,
+              191
+            ],
+            [
+              0,
+              193
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p7_block4_section_header.png",
+      "raw_text": "5.GENERAL",
+      "lines": [
+        {
+          "text": "5.GENERAL",
+          "confidence": 0.9496,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              13,
+              0
+            ],
+            [
+              13,
+              99
+            ],
+            [
+              0,
+              99
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p7_block5_text.png",
+      "raw_text": " ",
+      "lines": [
+        {
+          "text": "",
+          "confidence": 0.0,
+          "local_box": [
+            [
+              1,
+              0
+            ],
+            [
+              867,
+              0
+            ],
+            [
+              867,
+              14
+            ],
+            [
+              1,
+              14
+            ]
+          ]
+        },
+        {
+          "text": "",
+          "confidence": 0.0,
+          "local_box": [
+            [
+              0,
+              19
+            ],
+            [
+              868,
+              17
+            ],
+            [
+              868,
+              34
+            ],
+            [
+              0,
+              35
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p7_block6_text.png",
+      "raw_text": "HE AMOUNT RECEIVED BY JRVS FROM THE DISTRIBUTOR HEREUNDER FOR THE PRODUCT GIVING RISE TO TI ABILITY. IN NO EVENT SHALL JRVS BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE PRODUCTS  ERVICES, LOST PROFITS OR ANY CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR INDIRECT DAMAGES, HOWEVE AUSED AND ON ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE OR STRICT LIABILITY), ARISING OUT OF TH GREEMENT. THE DISTRIBUTOR ACKNOWLEDGES AND AGREES THAT THESE LIMITATIONS SHALL APPI",
+      "lines": [
+        {
+          "text": "HE AMOUNT RECEIVED BY JRVS FROM THE DISTRIBUTOR HEREUNDER FOR THE PRODUCT GIVING RISE TO TI",
+          "confidence": 0.9925,
+          "local_box": [
+            [
+              0,
+              11
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              27
+            ],
+            [
+              0,
+              28
+            ]
+          ]
+        },
+        {
+          "text": "ABILITY. IN NO EVENT SHALL JRVS BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE PRODUCTS ",
+          "confidence": 0.9949,
+          "local_box": [
+            [
+              0,
+              34
+            ],
+            [
+              868,
+              33
+            ],
+            [
+              868,
+              52
+            ],
+            [
+              0,
+              53
+            ]
+          ]
+        },
+        {
+          "text": "ERVICES, LOST PROFITS OR ANY CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR INDIRECT DAMAGES, HOWEVE",
+          "confidence": 0.9875,
+          "local_box": [
+            [
+              0,
+              57
+            ],
+            [
+              869,
+              55
+            ],
+            [
+              869,
+              76
+            ],
+            [
+              0,
+              78
+            ]
+          ]
+        },
+        {
+          "text": "AUSED AND ON ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE OR STRICT LIABILITY), ARISING OUT OF TH",
+          "confidence": 0.9924,
+          "local_box": [
+            [
+              0,
+              80
+            ],
+            [
+              868,
+              77
+            ],
+            [
+              868,
+              98
+            ],
+            [
+              0,
+              101
+            ]
+          ]
+        },
+        {
+          "text": "GREEMENT. THE DISTRIBUTOR ACKNOWLEDGES AND AGREES THAT THESE LIMITATIONS SHALL APPI",
+          "confidence": 0.9908,
+          "local_box": [
+            [
+              0,
+              105
+            ],
+            [
+              868,
+              100
+            ],
+            [
+              868,
+              118
+            ],
+            [
+              0,
+              123
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p7_block7_text.png",
+      "raw_text": " S",
+      "lines": [
+        {
+          "text": "",
+          "confidence": 0.0,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              709,
+              0
+            ],
+            [
+              709,
+              13
+            ],
+            [
+              0,
+              14
+            ]
+          ]
+        },
+        {
+          "text": "S",
+          "confidence": 0.578,
+          "local_box": [
+            [
+              0,
+              18
+            ],
+            [
+              868,
+              16
+            ],
+            [
+              868,
+              35
+            ],
+            [
+              0,
+              35
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p7_block8_text.png",
+      "raw_text": "mailed by certified or registered mail, return receipt requested and postage prepaid, addressed to the addressed be ivery by facsimile is effective upon receipt of successful fax transmission and shall be followed by delivery by mail as set ve. Notice by personal delivery is effective upon receipt of the notice. Notice sent by mail shall for all purposes eesment be treated as being effective or having been given ten days after mail.",
+      "lines": [
+        {
+          "text": "mailed by certified or registered mail, return receipt requested and postage prepaid, addressed to the addressed be",
+          "confidence": 0.9967,
+          "local_box": [
+            [
+              0,
+              7
+            ],
+            [
+              868,
+              8
+            ],
+            [
+              868,
+              29
+            ],
+            [
+              0,
+              28
+            ]
+          ]
+        },
+        {
+          "text": "ivery by facsimile is effective upon receipt of successful fax transmission and shall be followed by delivery by mail as set",
+          "confidence": 0.9992,
+          "local_box": [
+            [
+              1,
+              32
+            ],
+            [
+              868,
+              32
+            ],
+            [
+              868,
+              51
+            ],
+            [
+              1,
+              51
+            ]
+          ]
+        },
+        {
+          "text": "ve. Notice by personal delivery is effective upon receipt of the notice. Notice sent by mail shall for all purposes",
+          "confidence": 0.9931,
+          "local_box": [
+            [
+              1,
+              55
+            ],
+            [
+              867,
+              55
+            ],
+            [
+              867,
+              75
+            ],
+            [
+              1,
+              75
+            ]
+          ]
+        },
+        {
+          "text": "eesment be treated as being effective or having been given ten days after mail.",
+          "confidence": 0.9858,
+          "local_box": [
+            [
+              1,
+              80
+            ],
+            [
+              550,
+              80
+            ],
+            [
+              550,
+              94
+            ],
+            [
+              1,
+              94
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p7_block9_text.png",
+      "raw_text": "  ",
+      "lines": [
+        {
+          "text": "  ",
+          "confidence": 0.4873,
+          "local_box": [
+            [
+              49,
+              0
+            ],
+            [
+              869,
+              0
+            ],
+            [
+              869,
+              19
+            ],
+            [
+              49,
+              18
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p7_block10_text.png",
+      "raw_text": ", and merges all prior negotiations and drafts of the paries win regard to the transactions coatemglated hereín. ther swrittes ss ssal assoessests ssistino between the varties hereto regardine such ransacuons are expresshy canceled",
+      "lines": [
+        {
+          "text": ", and merges all prior negotiations and drafts of the paries win regard to the transactions coatemglated hereín.",
+          "confidence": 0.9606,
+          "local_box": [
+            [
+              0,
+              9
+            ],
+            [
+              869,
+              9
+            ],
+            [
+              869,
+              35
+            ],
+            [
+              0,
+              35
+            ]
+          ]
+        },
+        {
+          "text": "ther swrittes ss ssal assoessests ssistino between the varties hereto regardine such ransacuons are expresshy canceled",
+          "confidence": 0.9276,
+          "local_box": [
+            [
+              0,
+              39
+            ],
+            [
+              868,
+              39
+            ],
+            [
+              868,
+              53
+            ],
+            [
+              0,
+              53
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p8_block1_text.png",
+      "raw_text": "ect hereto, shall be effective unless in writing signed by both gartes in the case of a modincaúon, change ot ame garty granting the waiver in the case of a waiver",
+      "lines": [
+        {
+          "text": "ect hereto, shall be effective unless in writing signed by both gartes in the case of a modincaúon, change ot ame",
+          "confidence": 0.971,
+          "local_box": [
+            [
+              0,
+              9
+            ],
+            [
+              869,
+              10
+            ],
+            [
+              869,
+              33
+            ],
+            [
+              0,
+              32
+            ]
+          ]
+        },
+        {
+          "text": "garty granting the waiver in the case of a waiver",
+          "confidence": 0.9747,
+          "local_box": [
+            [
+              0,
+              39
+            ],
+            [
+              406,
+              39
+            ],
+            [
+              406,
+              53
+            ],
+            [
+              0,
+              53
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p8_block2_text.png",
+      "raw_text": "lesandSudites. Cde aiesamsaores aseaarcaarsAgreemetare usedSor convenience ont »sig Dinteveig s Agseement.",
+      "lines": [
+        {
+          "text": "lesandSudites. Cde aiesamsaores aseaarcaarsAgreemetare usedSor convenience ont",
+          "confidence": 0.7332,
+          "local_box": [
+            [
+              1,
+              0
+            ],
+            [
+              868,
+              0
+            ],
+            [
+              868,
+              13
+            ],
+            [
+              1,
+              13
+            ]
+          ]
+        },
+        {
+          "text": "»sig Dinteveig s Agseement.",
+          "confidence": 0.729,
+          "local_box": [
+            [
+              0,
+              19
+            ],
+            [
+              401,
+              19
+            ],
+            [
+              401,
+              34
+            ],
+            [
+              0,
+              33
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p8_block3_text.png",
+      "raw_text": "v or otherwise) hereunder without the prior written consent of JRVS. JRVS shall have the right to assign its rights, obliga d privileges hereunder to an assignee that agrees in writing to be bound by the terms and conditions of this Agreement. ms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective permitted successors igns of the parties. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the pa eto or their respective successors and assigns any rights, remedies, obligations, or liabilities under or by reason of eement excent as expressly provided in this Agreement.",
+      "lines": [
+        {
+          "text": "v or otherwise) hereunder without the prior written consent of JRVS. JRVS shall have the right to assign its rights, obliga",
+          "confidence": 0.9938,
+          "local_box": [
+            [
+              0,
+              6
+            ],
+            [
+              868,
+              6
+            ],
+            [
+              868,
+              28
+            ],
+            [
+              0,
+              28
+            ]
+          ]
+        },
+        {
+          "text": "d privileges hereunder to an assignee that agrees in writing to be bound by the terms and conditions of this Agreement.",
+          "confidence": 0.9949,
+          "local_box": [
+            [
+              1,
+              31
+            ],
+            [
+              867,
+              31
+            ],
+            [
+              867,
+              49
+            ],
+            [
+              1,
+              49
+            ]
+          ]
+        },
+        {
+          "text": "ms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective permitted successors",
+          "confidence": 0.9973,
+          "local_box": [
+            [
+              1,
+              53
+            ],
+            [
+              867,
+              53
+            ],
+            [
+              867,
+              71
+            ],
+            [
+              1,
+              71
+            ]
+          ]
+        },
+        {
+          "text": "igns of the parties. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the pa",
+          "confidence": 0.9969,
+          "local_box": [
+            [
+              0,
+              75
+            ],
+            [
+              869,
+              74
+            ],
+            [
+              869,
+              96
+            ],
+            [
+              0,
+              97
+            ]
+          ]
+        },
+        {
+          "text": "eto or their respective successors and assigns any rights, remedies, obligations, or liabilities under or by reason of",
+          "confidence": 0.9971,
+          "local_box": [
+            [
+              0,
+              99
+            ],
+            [
+              869,
+              97
+            ],
+            [
+              869,
+              118
+            ],
+            [
+              0,
+              120
+            ]
+          ]
+        },
+        {
+          "text": "eement excent as expressly provided in this Agreement.",
+          "confidence": 0.9944,
+          "local_box": [
+            [
+              0,
+              122
+            ],
+            [
+              394,
+              122
+            ],
+            [
+              394,
+              136
+            ],
+            [
+              0,
+              136
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p8_block4_text.png",
+      "raw_text": "aship between the parties shall only be that of independent contractors. Neither party shall have any right or autho e or create any obligations or to make any representations or warranties on behalf of any other party, whether exp ae to hiad the other garty in any respect whatsoever.",
+      "lines": [
+        {
+          "text": "aship between the parties shall only be that of independent contractors. Neither party shall have any right or autho",
+          "confidence": 0.9914,
+          "local_box": [
+            [
+              0,
+              8
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              30
+            ],
+            [
+              0,
+              29
+            ]
+          ]
+        },
+        {
+          "text": "e or create any obligations or to make any representations or warranties on behalf of any other party, whether exp",
+          "confidence": 0.9923,
+          "local_box": [
+            [
+              0,
+              34
+            ],
+            [
+              868,
+              34
+            ],
+            [
+              868,
+              57
+            ],
+            [
+              0,
+              57
+            ]
+          ]
+        },
+        {
+          "text": "ae to hiad the other garty in any respect whatsoever.",
+          "confidence": 0.9405,
+          "local_box": [
+            [
+              0,
+              60
+            ],
+            [
+              428,
+              60
+            ],
+            [
+              428,
+              75
+            ],
+            [
+              0,
+              75
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p8_block5_text.png",
+      "raw_text": "luding the U.S. Department of Commerce, which prohibit export or diversion of certain products and technology to ce untries. Any and all obligations of JRVS to provide Products, as well as any technical assistance, will be subject in all resj such United States laws and regulations and will from time to time govern the license and delivery of technology and proc oad by persons subject to the jurisdiction of the United States, including the Export Administration Act of 1979, as amen successor legislation, and the Export Administration Regulations issued by the Department of Commerce, International T inistration, or Office of Export Licensing. Distributor warrants that it will comply in all respects with the export and re-ex tions for all Products shipped to Distributor. Distributor will take all actions which may be reasonably necessary to as",
+      "lines": [
+        {
+          "text": "luding the U.S. Department of Commerce, which prohibit export or diversion of certain products and technology to ce",
+          "confidence": 0.9995,
+          "local_box": [
+            [
+              0,
+              7
+            ],
+            [
+              868,
+              7
+            ],
+            [
+              868,
+              25
+            ],
+            [
+              0,
+              25
+            ]
+          ]
+        },
+        {
+          "text": "untries. Any and all obligations of JRVS to provide Products, as well as any technical assistance, will be subject in all resj",
+          "confidence": 0.9984,
+          "local_box": [
+            [
+              0,
+              30
+            ],
+            [
+              867,
+              30
+            ],
+            [
+              867,
+              48
+            ],
+            [
+              0,
+              48
+            ]
+          ]
+        },
+        {
+          "text": "such United States laws and regulations and will from time to time govern the license and delivery of technology and proc",
+          "confidence": 0.9964,
+          "local_box": [
+            [
+              0,
+              54
+            ],
+            [
+              868,
+              54
+            ],
+            [
+              868,
+              72
+            ],
+            [
+              0,
+              72
+            ]
+          ]
+        },
+        {
+          "text": "oad by persons subject to the jurisdiction of the United States, including the Export Administration Act of 1979, as amen",
+          "confidence": 0.9957,
+          "local_box": [
+            [
+              0,
+              75
+            ],
+            [
+              868,
+              74
+            ],
+            [
+              868,
+              94
+            ],
+            [
+              0,
+              95
+            ]
+          ]
+        },
+        {
+          "text": "successor legislation, and the Export Administration Regulations issued by the Department of Commerce, International T",
+          "confidence": 0.9991,
+          "local_box": [
+            [
+              0,
+              100
+            ],
+            [
+              868,
+              97
+            ],
+            [
+              868,
+              116
+            ],
+            [
+              0,
+              118
+            ]
+          ]
+        },
+        {
+          "text": "inistration, or Office of Export Licensing. Distributor warrants that it will comply in all respects with the export and re-ex",
+          "confidence": 0.9999,
+          "local_box": [
+            [
+              0,
+              123
+            ],
+            [
+              868,
+              119
+            ],
+            [
+              868,
+              138
+            ],
+            [
+              0,
+              141
+            ]
+          ]
+        },
+        {
+          "text": "tions for all Products shipped to Distributor. Distributor will take all actions which may be reasonably necessary to as",
+          "confidence": 0.9999,
+          "local_box": [
+            [
+              0,
+              145
+            ],
+            [
+              868,
+              143
+            ],
+            [
+              868,
+              162
+            ],
+            [
+              0,
+              164
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p8_block6_text.png",
+      "raw_text": "der this Agreement (other than a payment obligation) due to any Act of God, fire, casualty, flood, earthquake, war, st kout, epidemic, destruction of production facilities, riot, insurrection, material unavailability, or any other cause beyond sonable control of the party invoking this section, and if such party shall have used its best efforts to mitigate its effects, s ty shall give prompt written notice to the other party, its performance shall be excused, and the time for the performance sl extended for the period of delay or inability to perform due to such occurrences. Notwithstanding the foregoing, if such pa ot able to perform within thirty (30) days after the event giving rise to the excuse of force majeure, the other party  inate this Agreement",
+      "lines": [
+        {
+          "text": "der this Agreement (other than a payment obligation) due to any Act of God, fire, casualty, flood, earthquake, war, st",
+          "confidence": 0.9942,
+          "local_box": [
+            [
+              0,
+              8
+            ],
+            [
+              868,
+              8
+            ],
+            [
+              868,
+              27
+            ],
+            [
+              0,
+              27
+            ]
+          ]
+        },
+        {
+          "text": "kout, epidemic, destruction of production facilities, riot, insurrection, material unavailability, or any other cause beyond",
+          "confidence": 0.9926,
+          "local_box": [
+            [
+              0,
+              28
+            ],
+            [
+              868,
+              29
+            ],
+            [
+              868,
+              50
+            ],
+            [
+              0,
+              49
+            ]
+          ]
+        },
+        {
+          "text": "sonable control of the party invoking this section, and if such party shall have used its best efforts to mitigate its effects, s",
+          "confidence": 1.0,
+          "local_box": [
+            [
+              0,
+              52
+            ],
+            [
+              868,
+              53
+            ],
+            [
+              868,
+              72
+            ],
+            [
+              0,
+              71
+            ]
+          ]
+        },
+        {
+          "text": "ty shall give prompt written notice to the other party, its performance shall be excused, and the time for the performance sl",
+          "confidence": 0.9945,
+          "local_box": [
+            [
+              0,
+              75
+            ],
+            [
+              868,
+              75
+            ],
+            [
+              868,
+              95
+            ],
+            [
+              0,
+              95
+            ]
+          ]
+        },
+        {
+          "text": "extended for the period of delay or inability to perform due to such occurrences. Notwithstanding the foregoing, if such pa",
+          "confidence": 1.0,
+          "local_box": [
+            [
+              0,
+              97
+            ],
+            [
+              868,
+              98
+            ],
+            [
+              868,
+              118
+            ],
+            [
+              0,
+              117
+            ]
+          ]
+        },
+        {
+          "text": "ot able to perform within thirty (30) days after the event giving rise to the excuse of force majeure, the other party ",
+          "confidence": 0.9935,
+          "local_box": [
+            [
+              0,
+              120
+            ],
+            [
+              868,
+              121
+            ],
+            [
+              868,
+              141
+            ],
+            [
+              0,
+              140
+            ]
+          ]
+        },
+        {
+          "text": "inate this Agreement",
+          "confidence": 0.9967,
+          "local_box": [
+            [
+              0,
+              143
+            ],
+            [
+              147,
+              143
+            ],
+            [
+              147,
+              156
+            ],
+            [
+              0,
+              156
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p8_block7_text.png",
+      "raw_text": "ee to renegotiate such provision in good faith, in order to maintain the economic position enjoyed by each party as clos ssible to that under the provision rendered unenforceable. In the event that the parties cannot reach a mutually agreeable forceable replacement for such provision, then (i) such provision shall be excluded from this Agreement, (ii) the balance o reement shall be interpreted as if such provision were so excluded and (iii) the balance of the Agreement shall be enforce cordance with its terms",
+      "lines": [
+        {
+          "text": "ee to renegotiate such provision in good faith, in order to maintain the economic position enjoyed by each party as clos",
+          "confidence": 0.9787,
+          "local_box": [
+            [
+              0,
+              7
+            ],
+            [
+              868,
+              9
+            ],
+            [
+              868,
+              28
+            ],
+            [
+              0,
+              26
+            ]
+          ]
+        },
+        {
+          "text": "ssible to that under the provision rendered unenforceable. In the event that the parties cannot reach a mutually agreeable",
+          "confidence": 0.9959,
+          "local_box": [
+            [
+              0,
+              29
+            ],
+            [
+              867,
+              31
+            ],
+            [
+              867,
+              52
+            ],
+            [
+              0,
+              49
+            ]
+          ]
+        },
+        {
+          "text": "forceable replacement for such provision, then (i) such provision shall be excluded from this Agreement, (ii) the balance o",
+          "confidence": 0.9994,
+          "local_box": [
+            [
+              0,
+              52
+            ],
+            [
+              867,
+              54
+            ],
+            [
+              867,
+              75
+            ],
+            [
+              0,
+              73
+            ]
+          ]
+        },
+        {
+          "text": "reement shall be interpreted as if such provision were so excluded and (iii) the balance of the Agreement shall be enforce",
+          "confidence": 0.9936,
+          "local_box": [
+            [
+              0,
+              76
+            ],
+            [
+              869,
+              76
+            ],
+            [
+              869,
+              97
+            ],
+            [
+              0,
+              97
+            ]
+          ]
+        },
+        {
+          "text": "cordance with its terms",
+          "confidence": 0.9965,
+          "local_box": [
+            [
+              1,
+              102
+            ],
+            [
+              167,
+              102
+            ],
+            [
+              167,
+              114
+            ],
+            [
+              1,
+              114
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p8_block8_text.png",
+      "raw_text": "te of Indiana, U.S.A., without reference to principals of conflicts of laws. All disputes arising out of this shall be settled al binding arbitration in Hamilton County, Indiana, pursuant to the Commercial Arbitration Rules of the American Arbitrati sociation. Judgment on the award rendered by the arbitrators may be entered in any court having competent jurisdicti ereof. Notwithstanding the foregoing, the parties may apply to any court of competent jurisdiction in Hamilton County, India S.A., for a temporary restraining order, preliminary injunction, or other interim or conservatory relief, as necessary, with ach of this arbitration agreement and without any abridgment of the powers of the arbitrators, and agree that such courts st ve exclusive iurisdiction of any such action.",
+      "lines": [
+        {
+          "text": "te of Indiana, U.S.A., without reference to principals of conflicts of laws. All disputes arising out of this shall be settled",
+          "confidence": 0.9959,
+          "local_box": [
+            [
+              0,
+              6
+            ],
+            [
+              868,
+              4
+            ],
+            [
+              868,
+              23
+            ],
+            [
+              0,
+              25
+            ]
+          ]
+        },
+        {
+          "text": "al binding arbitration in Hamilton County, Indiana, pursuant to the Commercial Arbitration Rules of the American Arbitrati",
+          "confidence": 0.9994,
+          "local_box": [
+            [
+              0,
+              27
+            ],
+            [
+              868,
+              26
+            ],
+            [
+              868,
+              46
+            ],
+            [
+              0,
+              47
+            ]
+          ]
+        },
+        {
+          "text": "sociation. Judgment on the award rendered by the arbitrators may be entered in any court having competent jurisdicti",
+          "confidence": 0.9993,
+          "local_box": [
+            [
+              0,
+              50
+            ],
+            [
+              868,
+              50
+            ],
+            [
+              868,
+              70
+            ],
+            [
+              0,
+              70
+            ]
+          ]
+        },
+        {
+          "text": "ereof. Notwithstanding the foregoing, the parties may apply to any court of competent jurisdiction in Hamilton County, India",
+          "confidence": 0.9993,
+          "local_box": [
+            [
+              0,
+              73
+            ],
+            [
+              868,
+              73
+            ],
+            [
+              868,
+              92
+            ],
+            [
+              0,
+              92
+            ]
+          ]
+        },
+        {
+          "text": "S.A., for a temporary restraining order, preliminary injunction, or other interim or conservatory relief, as necessary, with",
+          "confidence": 0.9983,
+          "local_box": [
+            [
+              0,
+              95
+            ],
+            [
+              868,
+              95
+            ],
+            [
+              868,
+              114
+            ],
+            [
+              0,
+              114
+            ]
+          ]
+        },
+        {
+          "text": "ach of this arbitration agreement and without any abridgment of the powers of the arbitrators, and agree that such courts st",
+          "confidence": 0.995,
+          "local_box": [
+            [
+              0,
+              116
+            ],
+            [
+              868,
+              117
+            ],
+            [
+              868,
+              138
+            ],
+            [
+              0,
+              137
+            ]
+          ]
+        },
+        {
+          "text": "ve exclusive iurisdiction of any such action.",
+          "confidence": 0.9819,
+          "local_box": [
+            [
+              1,
+              140
+            ],
+            [
+              299,
+              140
+            ],
+            [
+              299,
+              154
+            ],
+            [
+              1,
+              154
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p8_block9_text.png",
+      "raw_text": "ortunity to seek advice as to its legal rights from legal counsel and that the person signing on its behalf has read erstood all of the terms and provisions of this Agreement. This Agreement shall not be construed against any party af the drafting or preparation thereof",
+      "lines": [
+        {
+          "text": "ortunity to seek advice as to its legal rights from legal counsel and that the person signing on its behalf has read",
+          "confidence": 0.9938,
+          "local_box": [
+            [
+              0,
+              7
+            ],
+            [
+              868,
+              11
+            ],
+            [
+              868,
+              30
+            ],
+            [
+              0,
+              27
+            ]
+          ]
+        },
+        {
+          "text": "erstood all of the terms and provisions of this Agreement. This Agreement shall not be construed against any party",
+          "confidence": 0.9943,
+          "local_box": [
+            [
+              0,
+              32
+            ],
+            [
+              869,
+              34
+            ],
+            [
+              869,
+              57
+            ],
+            [
+              0,
+              55
+            ]
+          ]
+        },
+        {
+          "text": "af the drafting or preparation thereof",
+          "confidence": 0.9493,
+          "local_box": [
+            [
+              0,
+              59
+            ],
+            [
+              290,
+              59
+            ],
+            [
+              290,
+              74
+            ],
+            [
+              0,
+              74
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p9_block1_text.png",
+      "raw_text": "WIINESS WHERE MHSEUHAVE ERECURE RS RREERENR AS OE THE DATE",
+      "lines": [
+        {
+          "text": "WIINESS WHERE MHSEUHAVE ERECURE RS RREERENR AS OE THE DATE",
+          "confidence": 0.687,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              868,
+              0
+            ],
+            [
+              868,
+              14
+            ],
+            [
+              0,
+              13
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p9_block2_text.png",
+      "raw_text": "sunwai Technology",
+      "lines": [
+        {
+          "text": "sunwai Technology",
+          "confidence": 0.9844,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              15,
+              0
+            ],
+            [
+              15,
+              133
+            ],
+            [
+              0,
+              133
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p9_block3_text.png",
+      "raw_text": "Mine Corporation",
+      "lines": [
+        {
+          "text": "Mine Corporation",
+          "confidence": 0.9865,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              15,
+              0
+            ],
+            [
+              15,
+              127
+            ],
+            [
+              0,
+              127
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p9_block4_table.png",
+      "raw_text": "s/ Sei-Peng Tu /s/Daniel Tsai Peng Tu By: Daniel Tsaí ent Title: Chief Executive Officer 9",
+      "lines": [
+        {
+          "text": "s/ Sei-Peng Tu",
+          "confidence": 0.9683,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              114,
+              0
+            ],
+            [
+              113,
+              21
+            ],
+            [
+              0,
+              19
+            ]
+          ]
+        },
+        {
+          "text": "/s/Daniel Tsai",
+          "confidence": 0.9986,
+          "local_box": [
+            [
+              480,
+              1
+            ],
+            [
+              592,
+              1
+            ],
+            [
+              592,
+              19
+            ],
+            [
+              480,
+              19
+            ]
+          ]
+        },
+        {
+          "text": "Peng Tu",
+          "confidence": 0.9427,
+          "local_box": [
+            [
+              0,
+              22
+            ],
+            [
+              75,
+              22
+            ],
+            [
+              75,
+              44
+            ],
+            [
+              0,
+              44
+            ]
+          ]
+        },
+        {
+          "text": "By:",
+          "confidence": 0.9953,
+          "local_box": [
+            [
+              415,
+              23
+            ],
+            [
+              477,
+              23
+            ],
+            [
+              477,
+              45
+            ],
+            [
+              415,
+              45
+            ]
+          ]
+        },
+        {
+          "text": "Daniel Tsaí",
+          "confidence": 0.9524,
+          "local_box": [
+            [
+              467,
+              25
+            ],
+            [
+              565,
+              25
+            ],
+            [
+              565,
+              41
+            ],
+            [
+              467,
+              41
+            ]
+          ]
+        },
+        {
+          "text": "ent",
+          "confidence": 0.9864,
+          "local_box": [
+            [
+              0,
+              42
+            ],
+            [
+              30,
+              45
+            ],
+            [
+              27,
+              67
+            ],
+            [
+              0,
+              64
+            ]
+          ]
+        },
+        {
+          "text": "Title: Chief Executive Officer",
+          "confidence": 0.9888,
+          "local_box": [
+            [
+              409,
+              45
+            ],
+            [
+              652,
+              45
+            ],
+            [
+              652,
+              63
+            ],
+            [
+              409,
+              63
+            ]
+          ]
+        },
+        {
+          "text": "9",
+          "confidence": 0.9999,
+          "local_box": [
+            [
+              399,
+              67
+            ],
+            [
+              417,
+              67
+            ],
+            [
+              417,
+              85
+            ],
+            [
+              399,
+              85
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

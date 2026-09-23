@@ -1,0 +1,1323 @@
+{
+  "file_name": "Ali Zain - AI Engineer 3.0.pdf",
+  "extracted_data": {
+    "contractor_name": "Ali Zain",
+    "contractor_no": "110 Z6CS",
+    "vat_number": "",
+    "process_date": "October 2024",
+    "gross_pay": 0.0,
+    "net_pay": 0.0
+  },
+  "raw_ocr_blocks": [
+    {
+      "crop_file": "p1_block1_section_header.png",
+      "raw_text": "Ali Zain",
+      "lines": [
+        {
+          "text": "Ali Zain",
+          "confidence": 0.996,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              144,
+              0
+            ],
+            [
+              144,
+              36
+            ],
+            [
+              0,
+              36
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block2_section_header.png",
+      "raw_text": "& Machine Learning Enginer",
+      "lines": [
+        {
+          "text": "& Machine Learning Enginer",
+          "confidence": 0.9833,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              21,
+              0
+            ],
+            [
+              21,
+              368
+            ],
+            [
+              0,
+              368
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block3_text.png",
+      "raw_text": "110 Z6CS",
+      "lines": [
+        {
+          "text": "110",
+          "confidence": 0.4554,
+          "local_box": [
+            [
+              28,
+              6
+            ],
+            [
+              149,
+              4
+            ],
+            [
+              149,
+              18
+            ],
+            [
+              28,
+              19
+            ]
+          ]
+        },
+        {
+          "text": "Z6CS",
+          "confidence": 0.2995,
+          "local_box": [
+            [
+              278,
+              1
+            ],
+            [
+              784,
+              0
+            ],
+            [
+              784,
+              20
+            ],
+            [
+              279,
+              21
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block4_section_header.png",
+      "raw_text": "Sessional Summar",
+      "lines": [
+        {
+          "text": "Sessional Summar",
+          "confidence": 0.9884,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              303,
+              0
+            ],
+            [
+              303,
+              25
+            ],
+            [
+              0,
+              25
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block5_text.png",
+      "raw_text": "ce Agents, ML mode( traíníng, RAG pipelines, and computer vision systems. Proficient in FastAPI, vector sear exing, and AWS cloud deployment. Track record of cutting manual workflows by up to 8o% across legal, keting, and fintech domains through structured data extraction, tool-calling agents, and custom object-dete els",
+      "lines": [
+        {
+          "text": "ce Agents, ML mode( traíníng, RAG pipelines, and computer vision systems. Proficient in FastAPI, vector sear",
+          "confidence": 0.9835,
+          "local_box": [
+            [
+              1,
+              12
+            ],
+            [
+              1016,
+              12
+            ],
+            [
+              1016,
+              32
+            ],
+            [
+              1,
+              32
+            ]
+          ]
+        },
+        {
+          "text": "exing, and AWS cloud deployment. Track record of cutting manual workflows by up to 8o% across legal,",
+          "confidence": 0.9879,
+          "local_box": [
+            [
+              0,
+              41
+            ],
+            [
+              989,
+              42
+            ],
+            [
+              989,
+              65
+            ],
+            [
+              0,
+              64
+            ]
+          ]
+        },
+        {
+          "text": "keting, and fintech domains through structured data extraction, tool-calling agents, and custom object-dete",
+          "confidence": 0.9995,
+          "local_box": [
+            [
+              0,
+              73
+            ],
+            [
+              1017,
+              74
+            ],
+            [
+              1017,
+              97
+            ],
+            [
+              0,
+              96
+            ]
+          ]
+        },
+        {
+          "text": "els",
+          "confidence": 0.8217,
+          "local_box": [
+            [
+              0,
+              103
+            ],
+            [
+              38,
+              103
+            ],
+            [
+              38,
+              123
+            ],
+            [
+              0,
+              123
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block6_section_header.png",
+      "raw_text": "Vork Experien",
+      "lines": [
+        {
+          "text": "Vork Experien",
+          "confidence": 0.9683,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              227,
+              0
+            ],
+            [
+              227,
+              25
+            ],
+            [
+              0,
+              25
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block7_section_header.png",
+      "raw_text": "achine Learning & Python Dever alytic Group Ltd, Islamabad",
+      "lines": [
+        {
+          "text": "achine Learning & Python Dever",
+          "confidence": 0.9618,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              437,
+              0
+            ],
+            [
+              437,
+              24
+            ],
+            [
+              0,
+              24
+            ]
+          ]
+        },
+        {
+          "text": "alytic Group Ltd, Islamabad",
+          "confidence": 0.9767,
+          "local_box": [
+            [
+              0,
+              27
+            ],
+            [
+              318,
+              28
+            ],
+            [
+              318,
+              49
+            ],
+            [
+              0,
+              48
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block8_list_item.png",
+      "raw_text": "Sained and aptimizeda capersar-ceecccce ac squash-coun analyics annorarron to evalua 9%mAP@05andaRaromEgestSpeechondenceCfer",
+      "lines": [
+        {
+          "text": "Sained and aptimizeda capersar-ceecccce ac squash-coun analyics annorarron to evalua",
+          "confidence": 0.7657,
+          "local_box": [
+            [
+              23,
+              1
+            ],
+            [
+              1035,
+              1
+            ],
+            [
+              1035,
+              18
+            ],
+            [
+              23,
+              18
+            ]
+          ]
+        },
+        {
+          "text": "9%mAP@05andaRaromEgestSpeechondenceCfer",
+          "confidence": 0.7066,
+          "local_box": [
+            [
+              1,
+              27
+            ],
+            [
+              908,
+              27
+            ],
+            [
+              908,
+              44
+            ],
+            [
+              1,
+              44
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block9_list_item.png",
+      "raw_text": "brape D)Danking documents to Aws S3. reducing manua vencanon wonoad by BD%. ee,Eo,Valaaon, am",
+      "lines": [
+        {
+          "text": "brape D)Danking documents to Aws S3. reducing manua vencanon wonoad by BD%.",
+          "confidence": 0.8174,
+          "local_box": [
+            [
+              145,
+              0
+            ],
+            [
+              989,
+              0
+            ],
+            [
+              989,
+              21
+            ],
+            [
+              145,
+              22
+            ]
+          ]
+        },
+        {
+          "text": "ee,Eo,Valaaon, am",
+          "confidence": 0.6103,
+          "local_box": [
+            [
+              78,
+              24
+            ],
+            [
+              563,
+              22
+            ],
+            [
+              563,
+              40
+            ],
+            [
+              78,
+              42
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block10_list_item.png",
+      "raw_text": "gayoG47 for structured data extraction and optimizing via few-shot prompting and chunking to reduce hallucinatior deployed to AWS with a 4+ member team.",
+      "lines": [
+        {
+          "text": "gayoG47",
+          "confidence": 0.4956,
+          "local_box": [
+            [
+              713,
+              1
+            ],
+            [
+              1038,
+              1
+            ],
+            [
+              1038,
+              9
+            ],
+            [
+              713,
+              9
+            ]
+          ]
+        },
+        {
+          "text": "for structured data extraction and optimizing via few-shot prompting and chunking to reduce hallucinatior",
+          "confidence": 0.997,
+          "local_box": [
+            [
+              0,
+              17
+            ],
+            [
+              1040,
+              19
+            ],
+            [
+              1040,
+              43
+            ],
+            [
+              0,
+              40
+            ]
+          ]
+        },
+        {
+          "text": "deployed to AWS with a 4+ member team.",
+          "confidence": 0.9701,
+          "local_box": [
+            [
+              0,
+              49
+            ],
+            [
+              408,
+              51
+            ],
+            [
+              408,
+              71
+            ],
+            [
+              0,
+              70
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block11_section_header.png",
+      "raw_text": "e le D 8",
+      "lines": [
+        {
+          "text": "e",
+          "confidence": 0.9984,
+          "local_box": [
+            [
+              0,
+              50
+            ],
+            [
+              20,
+              50
+            ],
+            [
+              20,
+              71
+            ],
+            [
+              0,
+              71
+            ]
+          ]
+        },
+        {
+          "text": "le",
+          "confidence": 0.7047,
+          "local_box": [
+            [
+              2,
+              75
+            ],
+            [
+              21,
+              79
+            ],
+            [
+              18,
+              102
+            ],
+            [
+              0,
+              98
+            ]
+          ]
+        },
+        {
+          "text": "D",
+          "confidence": 0.9856,
+          "local_box": [
+            [
+              2,
+              97
+            ],
+            [
+              18,
+              97
+            ],
+            [
+              18,
+              117
+            ],
+            [
+              2,
+              117
+            ]
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.8558,
+          "local_box": [
+            [
+              1,
+              209
+            ],
+            [
+              20,
+              209
+            ],
+            [
+              20,
+              258
+            ],
+            [
+              1,
+              258
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block12_text.png",
+      "raw_text": "S e a",
+      "lines": [
+        {
+          "text": "S",
+          "confidence": 0.9922,
+          "local_box": [
+            [
+              0,
+              73
+            ],
+            [
+              17,
+              69
+            ],
+            [
+              18,
+              87
+            ],
+            [
+              0,
+              90
+            ]
+          ]
+        },
+        {
+          "text": "e",
+          "confidence": 1.0,
+          "local_box": [
+            [
+              0,
+              157
+            ],
+            [
+              15,
+              156
+            ],
+            [
+              17,
+              170
+            ],
+            [
+              0,
+              172
+            ]
+          ]
+        },
+        {
+          "text": "a",
+          "confidence": 0.9983,
+          "local_box": [
+            [
+              0,
+              304
+            ],
+            [
+              18,
+              304
+            ],
+            [
+              18,
+              320
+            ],
+            [
+              0,
+              320
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block13_list_item.png",
+      "raw_text": "Cam ama aeployea a proauclnol Dubul bneAragem ((wills, Eesesass,Eastapss that autonomous handles 2o0+ (ead-gualification calls daily, with intent-recovery, retry, and human-handoff fallbacks, monitore AwS ClopudWatchoos and alerts.",
+      "lines": [
+        {
+          "text": "Cam ama aeployea a proauclnol Dubul bneAragem ((wills, Eesesass,Eastapss that autonomous",
+          "confidence": 0.6575,
+          "local_box": [
+            [
+              11,
+              0
+            ],
+            [
+              1037,
+              0
+            ],
+            [
+              1037,
+              15
+            ],
+            [
+              11,
+              12
+            ]
+          ]
+        },
+        {
+          "text": "handles 2o0+ (ead-gualification calls daily, with intent-recovery, retry, and human-handoff fallbacks, monitore",
+          "confidence": 0.9843,
+          "local_box": [
+            [
+              7,
+              18
+            ],
+            [
+              1038,
+              23
+            ],
+            [
+              1038,
+              46
+            ],
+            [
+              7,
+              42
+            ]
+          ]
+        },
+        {
+          "text": "AwS ClopudWatchoos and alerts.",
+          "confidence": 0.8941,
+          "local_box": [
+            [
+              5,
+              52
+            ],
+            [
+              350,
+              52
+            ],
+            [
+              350,
+              71
+            ],
+            [
+              5,
+              71
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block14_list_item.png",
+      "raw_text": "Asfomafed post-canreligernce (Crarscrgagr rrarclrrguartranslation, summaries, andleane classification). (etting sales feams prioritize hot leads and cutting lead-review fime py 25%",
+      "lines": [
+        {
+          "text": "Asfomafed post-canreligernce (Crarscrgagr rrarclrrguartranslation, summaries, andleane",
+          "confidence": 0.7955,
+          "local_box": [
+            [
+              12,
+              0
+            ],
+            [
+              970,
+              1
+            ],
+            [
+              970,
+              18
+            ],
+            [
+              12,
+              17
+            ]
+          ]
+        },
+        {
+          "text": "classification). (etting sales feams prioritize hot leads and cutting lead-review fime py 25%",
+          "confidence": 0.9492,
+          "local_box": [
+            [
+              0,
+              27
+            ],
+            [
+              970,
+              27
+            ],
+            [
+              970,
+              44
+            ],
+            [
+              0,
+              44
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block15_list_item.png",
+      "raw_text": "Shipped a mults-agenr SE arag ppere Carrggrapt, Cacge, Saar auromares research, drat kevword optimization cutting manual hlaa wcitina affart hy~ga%",
+      "lines": [
+        {
+          "text": "Shipped a mults-agenr SE arag ppere Carrggrapt, Cacge, Saar auromares research, drat",
+          "confidence": 0.7868,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              1003,
+              0
+            ],
+            [
+              1003,
+              22
+            ],
+            [
+              0,
+              22
+            ]
+          ]
+        },
+        {
+          "text": "kevword optimization cutting manual hlaa wcitina affart hy~ga%",
+          "confidence": 0.8898,
+          "local_box": [
+            [
+              0,
+              22
+            ],
+            [
+              651,
+              21
+            ],
+            [
+              651,
+              41
+            ],
+            [
+              0,
+              42
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block16_list_item.png",
+      "raw_text": " ",
+      "lines": [
+        {
+          "text": "",
+          "confidence": 0.0,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              1035,
+              0
+            ],
+            [
+              1035,
+              20
+            ],
+            [
+              0,
+              20
+            ]
+          ]
+        },
+        {
+          "text": "",
+          "confidence": 0.0,
+          "local_box": [
+            [
+              0,
+              25
+            ],
+            [
+              1035,
+              25
+            ],
+            [
+              1035,
+              44
+            ],
+            [
+              0,
+              44
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block17_section_header.png",
+      "raw_text": "PROJECT",
+      "lines": [
+        {
+          "text": "PROJECT",
+          "confidence": 0.9689,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              151,
+              0
+            ],
+            [
+              151,
+              25
+            ],
+            [
+              0,
+              24
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block18_section_header.png",
+      "raw_text": "irmhole  Final Year Proe",
+      "lines": [
+        {
+          "text": "irmhole  Final Year Proe",
+          "confidence": 0.9291,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              18,
+              0
+            ],
+            [
+              18,
+              269
+            ],
+            [
+              0,
+              269
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block19_list_item.png",
+      "raw_text": "Bu ",
+      "lines": [
+        {
+          "text": "Bu",
+          "confidence": 0.5423,
+          "local_box": [
+            [
+              4,
+              1
+            ],
+            [
+              999,
+              1
+            ],
+            [
+              999,
+              18
+            ],
+            [
+              4,
+              18
+            ]
+          ]
+        },
+        {
+          "text": "",
+          "confidence": 0.0,
+          "local_box": [
+            [
+              1,
+              28
+            ],
+            [
+              360,
+              28
+            ],
+            [
+              360,
+              45
+            ],
+            [
+              1,
+              45
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block20_section_header.png",
+      "raw_text": "",
+      "lines": []
+    },
+    {
+      "crop_file": "p1_block21_text.png",
+      "raw_text": "Quaid--Azam University, (slamabadCGPA J.34",
+      "lines": [
+        {
+          "text": "Quaid--Azam University, (slamabadCGPA J.34",
+          "confidence": 0.9278,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              18,
+              0
+            ],
+            [
+              18,
+              519
+            ],
+            [
+              0,
+              519
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block22_section_header.png",
+      "raw_text": "C e 8 S",
+      "lines": [
+        {
+          "text": "C",
+          "confidence": 0.9984,
+          "local_box": [
+            [
+              1,
+              73
+            ],
+            [
+              24,
+              73
+            ],
+            [
+              24,
+              97
+            ],
+            [
+              1,
+              97
+            ]
+          ]
+        },
+        {
+          "text": "e",
+          "confidence": 0.9999,
+          "local_box": [
+            [
+              1,
+              141
+            ],
+            [
+              25,
+              141
+            ],
+            [
+              25,
+              164
+            ],
+            [
+              1,
+              164
+            ]
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.989,
+          "local_box": [
+            [
+              0,
+              187
+            ],
+            [
+              25,
+              187
+            ],
+            [
+              25,
+              218
+            ],
+            [
+              0,
+              218
+            ]
+          ]
+        },
+        {
+          "text": "S",
+          "confidence": 1.0,
+          "local_box": [
+            [
+              0,
+              219
+            ],
+            [
+              25,
+              219
+            ],
+            [
+              25,
+              246
+            ],
+            [
+              0,
+              246
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block23_text.png",
+      "raw_text": "SSeBSS,SESOrFoW,POCR,LaTTaT,LBSS T FasAP.Twilio ElevenLabs. Docker. AWS PostareSQL MangaB Pavect",
+      "lines": [
+        {
+          "text": "SSeBSS,SESOrFoW,POCR,LaTTaT,LBSS",
+          "confidence": 0.4971,
+          "local_box": [
+            [
+              2,
+              0
+            ],
+            [
+              719,
+              1
+            ],
+            [
+              719,
+              20
+            ],
+            [
+              2,
+              19
+            ]
+          ]
+        },
+        {
+          "text": "T FasAP.Twilio ElevenLabs. Docker. AWS PostareSQL MangaB Pavect",
+          "confidence": 0.7811,
+          "local_box": [
+            [
+              6,
+              19
+            ],
+            [
+              1032,
+              19
+            ],
+            [
+              1032,
+              41
+            ],
+            [
+              6,
+              41
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block24_text.png",
+      "raw_text": "",
+      "lines": []
+    },
+    {
+      "crop_file": "p1_block25_text.png",
+      "raw_text": "ovember 2024 -March 2",
+      "lines": [
+        {
+          "text": "ovember 2024 -March 2",
+          "confidence": 0.982,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              18,
+              0
+            ],
+            [
+              18,
+              279
+            ],
+            [
+              0,
+              279
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block26_text.png",
+      "raw_text": "en Prese March 2026 -",
+      "lines": [
+        {
+          "text": "en",
+          "confidence": 0.9977,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              18,
+              0
+            ],
+            [
+              18,
+              27
+            ],
+            [
+              0,
+              27
+            ]
+          ]
+        },
+        {
+          "text": "Prese",
+          "confidence": 0.9888,
+          "local_box": [
+            [
+              0,
+              18
+            ],
+            [
+              18,
+              19
+            ],
+            [
+              18,
+              75
+            ],
+            [
+              0,
+              74
+            ]
+          ]
+        },
+        {
+          "text": "March 2026 -",
+          "confidence": 0.9569,
+          "local_box": [
+            [
+              0,
+              69
+            ],
+            [
+              18,
+              69
+            ],
+            [
+              18,
+              205
+            ],
+            [
+              0,
+              205
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block27_text.png",
+      "raw_text": "0Z4",
+      "lines": [
+        {
+          "text": "0Z4",
+          "confidence": 0.7479,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              44,
+              0
+            ],
+            [
+              44,
+              11
+            ],
+            [
+              0,
+              11
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "crop_file": "p1_block28_text.png",
+      "raw_text": "raduated: 2020 - 2",
+      "lines": [
+        {
+          "text": "raduated: 2020 - 2",
+          "confidence": 0.964,
+          "local_box": [
+            [
+              0,
+              0
+            ],
+            [
+              213,
+              0
+            ],
+            [
+              213,
+              17
+            ],
+            [
+              0,
+              18
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
